@@ -1,4 +1,4 @@
-##Transcription Notes
+## Transcription Notes
 
 - insertions, changes, or uncertain elements  marked with “()” 
 	-  text between “(-“ and ”-)” to be removed

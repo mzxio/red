@@ -1,4 +1,4 @@
-##Rules
+## Rules
 
 - two pages minimum every day
 - only offline activities before marking pages
