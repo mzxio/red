@@ -3,6 +3,9 @@
 as told by 
 Rouen Stern, Bones-of-Stars
 
+transcribed by
+Maxim Hall, Winds-of-Autumn
+
 ## Transcription Notes
 
 - insertions, changes, or uncertain elements  marked with “()” 
@@ -593,11 +596,230 @@ whatever it is, gone now. the thought, the sense, the memory. there was somethin
 
 # 92
 
-
+vectors in space have direction and magnitude. when navigating the planes, vectors are motion and survival. gravity has you. assume there is no escape, not without power and planning. the right vectors. don’t get too close to the sun. it will devour you alive. any of the big gravity wells, you can fall down without any hope of getting back out again. ride the currents. find the still places where the waves cancel each other out. when the conditions aren’t right for travel, get into a good parking orbit and ride it out. when the storms come, use the deep wells to your advantage. they’ll catch what might otherwise kill you. when the time is right, plot your course. ride the smooth paths cut through the waves by the still places. all is in motion. when you get where you’re going it won’t look like it does now. look at the past to learn how to read the future. the map is never the land but it can help you get where you want to go. be patient, go slow, find the path, let the currents carry you, find the still places. use the vectors to control your fate.
 
 # 93
 
+don’t send yourself to other worlds. send life. just the idea of life. like some suggestions of shapes for molecules to assume. let them take it from there.
+
+# 94
+
+how much wreckage is left out there that we don’t even know about? old probes sent by now long dead civilizations who walked themselves into oblivion for whatever reason? old spacefaring tribes who were nomads of the stars, leaving one home for the next? what wars were fought, running battles from world to world, from rock to cloud to sun? what junk was left twisted and broken, timelessly waiting on some airless moon? what were they fighting for, and who were they fighting for it? and if anyone could ever find their lost scrap, would we even want to know? or would it just be remnant of ourselves, nomad kin finding the bones of their ancestors on the long road. camping in the ruins of ancient cities, too vast for anyone to build it seems, these ancients with their unknowable skills and secret wisdom. we can find their remains but never know them as they were. just find the burned out husk of some settlement, the scattered debris from some pilgrimage. nothing but some stones standing where a sacred site once was. bones from a forgotten battle, covering the hills far as can be seen. maybe all we’re doing is looking at our future.
+
+# 95
+
+the line between times, not when all of one time ends and all of another begins, but when the usual cycles hit an exact point. a ratio of one time and another, the combination of the two.
+
+(diagram: orbit with four key points referenced and charted)
+
+from the dark cold time to the bright hot time, and the points exactly in between. a time long honored since the ancient days, when standing precisely between two worlds, between the hot and cold, between the growing time and the resting time. an invisible moment of equilibrium. 
+
+# 96
+
+equipment failure. the slow degradation of time. all things physical that live eventually die. disconnection, failure. traveling through dangerous places speeds it up. radiation, collision, accidents. one failure begets another. eventually there can be no travel, or the certainty of death before reaching the next destination. carrying life, every step is taken for its preservation. the carrier takes the hits so its precious cargo is preserved. the journey has no other purpose but the preservation of that life. the carrier knows of its own inevitable death and carries on for the hope and certainty of finding a place to rest, to lay down its burdens. to let the life it shelters flourish and grow without the same fears, without the same trials. without the radiation and the pummeling rocks and the battles and the long grinding eternity between the stars. eventually the carrier comes to face the question: stop here, where here may be less than ideal, or try for there, knowing that it may never make that trip(?) knowing it may die and all life with it will die too. so it makes a choice. 
+
+# 97
+
+where do we go when we can’t find the way? do we just go forward blindly, do we go back? what even are those things when we are lost? purpose is pride. we have somewhere to be, someone to be, something to do. aimlessness is prideless(.) nowhere and no one and nothing. so where do we go when we can’t find the way? do we choose pride? do we embrace loss? do we surrender to aimlessness? pride is not a sin. it is a viable choice. perhaps pride means looking for a way out, for a meaning in the meaningless. pride is asking for directions to find out the way. pride is not asking and finding your own way. in either case, you may be lost but you have an aim. without pride, what’s the point? here is as good as anywhere. not all goals are prideful. all life has an objective for preservation, even life incapable of talking or thinking or loving. but maybe this too is a form of pride. pride that this life should go on, pride to take what is necessary even if it deprives another entity. in thoughtlessness, motive is impossible and irrelevant, so maybe that pride is just in us at a most essential level. we are alive. we are proud. we have a goal.
+
+# 98
+
+first day of autumn. spent all summer writing in these books. two months in this one. seems like a lot but then nothing much at all. don’t even much want to write, what should i write about? dreams that i remember just long enough to draw a picture? some fragmented nonsense bullshit narrative about this or that? something that i know is bullshit even as i write it, and later i know i’ll come back and see just how wrong i was. the “is”, is-ness. nothing is, everything is in motion. like the man said, i never met a noun, only verbs.[^1] but i said i’d do this and i’m still not halfway through. something comes in fits and starts and i don’t want to run the risk of missing anything by not coming here every day and writing and drawing. when it comes through it’s so strong, when it’s gone i’m so empty. fifteen days since the last big dream, twenty-six days since a vision so strong i couldn’t catch even enough to do it justice. guess these things take time and later it won’t seem so distant. but here and now i want it all. i want to make sure whatever is coming through gets translated i have to.
+
+(diagram: four scenes)
+
+the visions that keep coming through.
+
+the hour of reckoning, the bombs, the fire. the ships, the carrier, the fighter. the mother-ship, the traveler wrecked on some world.the valley. an infinite variation of life and death and good times and bad. the ancient city under siege. the later city all ruins or still alive. it loops. like looking at the same feed again and again and never quite getting it all at once. but these things i keep seeing. maybe eventually i’ll get it all.
+
+# 99
+
+perturbations in orbital mechanics. what are the dynamics of solar powered spacecraft? universal gravitational constant  _G_, in n-body problems. must account for _C_, the speed of light. where a body is and where it appears to be are two different things. update your calculations again when you get close. inaccurate answers are simpler and less expensive than accurate ones. sometimes you don’t need high accuracy, when you’re still far away. getting closer you start to see the difference between reality and estimation. even at sublight speeds before relativity really kicks in, nothing is quite as it seems. save some fuel for last minute course corrections. if you’re going too fast and you fly off into the void that’s (your) own problem. intercepts are tricky and costly. sometimes impossible. double check your math. no one is coming to save you if you miss. trust your computer. stay patient and go slow if you’re not sure. if it all goes wrong, don’t worry. someone will pick you up, in a million years or so.
+
+# 100
+
+the last jump. charging. plot your course. your ship will break after this. wherever you end up, there is where you’re going to stay. choose well. can you even choose well? millennia of stellar observations, catalogs, indices, you know all you can know. could it ever be enough? no one else is coming. just you, your know, whatever and whoever you brought with you. and how much loss? who should here but isn’t, lost along the way? who more than anyone else do you wish was here now? doesn’t matter now. can’t change the past. can’t go back now. charging. do the calculations. reference, coordinated, projection. charging. you’ve known for a while this was where you were headed. but now, waiting in anticipation, death rushing up from behind. all the hope and fear from such long epochs of travels all focused ahead, and nothing to do but wait and check your calculations again and again. charging. not long now. the accumulators are almost full, straining to do their task this one last time. ready now. jump. 
+
+# 101
+
+sleepless dreams. nothing but orbital mechanics all night until the sunrise. a through n, an infinite array of masses, all thrown in one massive grinding calculation. absolutely no room for perturbations, unaccounted eccentricity. throw it all out and start over. n-body problem. newtons’s heliocentric model makes it easy, but over a long enough time scale it breaks down. everything is in motion. the galactic year, a name for a 250,000 year cycle. the galactic orbit is non-keplarian. no simple ellipse can save you here. spin it forward, spin it back. time is a dimension. the galaxy doesn’t make it easy. still a lot of randomness in that soup. time is absolutely a vector that must be accounted for. should be able to go back and forward given  starting point. project a course given certain conditions and estimation it won’t be 100% accurate. just enough to get closer and then there’s less room for rounding errors. throwing a dart to the other side of the galaxy and hoping it’s anywhere near the target. even if it misses by a few light years it’s still close enough.
+
+mass: 0
+speed: 1
+direction: 2
+period: 3
+variance: 4
+density: 5
+rotation: 6
+???: ...
+
+# 102
+
+average of vectors. add each value and divide by number of values. sometimes n-dimensions use the same math as one dimension, just repeated n times. no equation is worth a damn without a proof. don’t take my word for it, find out for yourself. no one here has all the answers. what came first, the ellipse or the gravity that made the ellipse? for everything, different people have different answers. problems for simulation are different than problems of being simulated. the ellipse is just a circle with perspective. a point becomes a line becomes a curve becomes a surface. the dimensionless gains dimension by its association with other dimensionless points. the sum total of a thing becomes more than just its components taken alone. meaningless instants become eternal lines. no one here was born to a world they would ever fully understand. we cannot be everywhere at once, but in our intersection we may be bound to larger shapes.
+
+# 103
+
+they’ll do business with each other, while telling you stories about how you shouldn’t trust them. they’ll lie out of both sides of their mouths, laugh at you in your face while taking your money, your time, your life. you are not valuable to them the way they are to themselves. you are a resource, something to be captured and exploited. if they can no longer exploit you, you may as well be dead. they will make the stories to tell whoever comes next, and they won’t tell your story unless it can be made to benefit them. they’ll use you until it becomes too difficult, or expensive, then they will find someone or something else. something less expensive. don’t be deceived by them. don’t trust them. don’t let them make you believe that they care, that they are your friend. they aren’t. they are only here for themselves. walk with care.
+
+# 104
+
+it was raining in the city by midnight. the park was mostly empty, except for us. standing at the water, sharing a flask, watching the wet misty glow of the city rise to meet the clouds. walking uptown, looking for a place to eat. soggy and leaden, no way to get a light, no way to see. just blurry and stumbling until there, a sparkling sign, the smell of chopped meat and onions, the piercing strike of metal against metal, fragrant steam mixing with the stink. then time to go, to find a cab, to shiver in the back seat. taking the (-79th street-) transverse, the bridge between dimensions. black-white-black-white-black. accelerating, chasing, tearing through the night. TRIP IN PROGRESS says the display. ripping out a loose thread, feeling it all start to unravel. swimming from the drink, from the anticipation. sweating and dripping, then screaming back into the night on the other side, one step closer to the end. flipping the page to the next chapter, the last chapter. dragged through time and space for one last encounter, one long tense chilly argument, one more lie, one more truth, one more night. all my universe collapsed on itself and only i can carry it into the next day, but first the waiting through one last rainy city night for the sunrise. 
+
+# 105
+
+walking the paths between worlds. harmonies of the spheres. ancient music set in motion in a long forgotten age. the wanderer coasting for an eternity, carrying this era into the next. 
+
+(diagrams labeled “considering propulsion?”)
+
+mass of fuel over time: using fuel ejection mass
+
+velocity over time: using solar particles, no mass added or removed
+
+mass of fuel over time: gather fuel while coasting, fuel ejection mass with slow gathering of extra mass
+
+# 106
+
+the moments are so short.
+this too shall pass.
+say what you want to say.
+nothing after forgetting.
+
+# 107
+
+too many signals at once, too much conflicting input.
+
+# 108
+
+always in a hurry. a hurry for something. get somewhere, get something. get it done, get it in, get on to the next thing. always rushing to finish. even procrastinators are hurrying in their aimlessness, hurrying to do anything else but whatever needs doing. do it all, do it not at all, but get going. the rushing days of increased productivity, the hasty nights on the come down. appointments and schedules and time slices all stacked. time wasted too. rush to get the tv on, to have a constant feed of information streamed into minds and ears and eyes. if it breaks, rush to get it fixed. make it somebody else’s problem, if you can’t rush make them rush for you. now now now. it was not always so, but that’s true for a lot of things. i can’t seem to rush, doing it fast isn’t in me when the sun creeps over the horizon and today is now. 
+
+# 109
+
+where are you on your path? is there even any way to know? do you ask someone else, outside, far away? from their distant perspective, can they tell you where you are? or will they just compare your apparent place with their own maps and render a judgement? can we even know? sometimes i think my soul is not my own. sometimes it’s as if someone else has inhabited me. one me, the natural self i was born with, destined for forgetfulness, only to live and fade and at most be left as a ghost haunting some special place. the other soul, an ancient timeless one, turning off all its extra senses and coming into me. to take a ride, to watch with my eyes, to speak with my mouth. some celestial being who sees all my life and steps into me to watch some special parts. times of change and destiny. when i feel that extra capacity, and i can use a little more starstuff power than usual. then the moment passes and regular me has to live through the long boring stretches between destinies. somehow i trust that timeless self to know. i wonder if it deserves my trust. 
+
+# 110
+
+to be a cell in some beautiful creature. to be a molecule in a flower. to be an atom in a mote of dust. to be far away from everything else and close to the source. not the center, there is no center. there is us, there is all. be a part of all but not all yourself. stay close to the source, to the land, to the sun. transform, with the death of the organism, with the seeding of the flower, with the settling of the dust. folded into the earth and over an age worked back up to the surface to be consumed by a new flower, eaten by the animal, incorporated into a new being. from bone to dust and back again. the endless cycle, repeated for however long we have in this place, until there is a new place. heaven is the infinite compression where we are all together and one, then scattered to the wind to begin again. 
+
+# 111
+
+who are the ancient ones walking among us? gods, demigods, angels, demons, immortals, all the old names and new. the ones for whom death is a different kind of companion. not the mortal death that lives inside, but a death that never calls, never writes, never visits. a death that seems to touch everything and everyone else. who walks without death? the ones who have been here for so long, seen the ages of a society, moved on from wars and ruin. beings from a different place altogether maybe(.) disguised as a local, quietly blending in to avoid detection, fear, worship. or exactly the opposite. the old stories tell of god kings, maybe in some days they come forth and assume a public face. these days they don’t seem quite so obvious, though the readiness to accept supernatural leaders waxes and wanes with passing ages. the immortal always transcends an aspect of mortality that turns the mortal into blind followers, blind haters. and to the immortal, does the mortal seem weak and flawed or more precious? are both qualities that appear in different measure? and for the most ancient of them all, the ones that transcend even immortality, what do they see that even the rest don’t see? how does their sight and knowledge change the way they walk through this world for so long? 
+
+# 112
+
+dreams say it’s time to keep doing the work.
+
+# 113
+
+it all comes back around again. as from the beginning, so to now. nothing really changes, whatever it was that drove you then still drives you. whatever you were searching for, you’re still searching. whatever it was. you’ve found some pieces but never the whole. it seemed so random, a brownian motion of searching by bumping into things and then moving on. they say you shouldn’t be that way, but what if that’s the way this happens? what if the child self knows but the adult self has to spend long years learning and articulating? what if we know our destiny but only through living it out is that knowing expressed? later, in any case, we can say “i knew it would be like this” whether or not it’s true, regardless of the presence or absence of destiny. but for me, coming back around again. this seems as it should be. starting at one place and learning and working in a big circle. it seems i started with a low fidelity polygonal simulation, cruising through space. and now at last i am the maker of the sim, not just a player. 
+
+# 114
+
+tamping down the dreams so visions stop. no more screaming from the beyond, wild heaven’s whispers. what is madness? seeing things that aren’t there? how do we really know what is and what isn’t? can you tell? is reality what you perceive with your senses, what you can measure with tools or instruments? who made these tools, and what are they specialized in? we see so little, can we really trust our eyes? our sense of things comes from no single sense, rather is built up from all data poured into it by all our senses, even the ones that cannot be measured. am i insane? what is the difference between vision and delusion? is a delusion always false, something that never comes true? is a vision something that must be true in order to avoid becoming delusional? what if a thing could be true but never comes to pass for some other reason? is a vision of what could have been a delusion or just reality somewhere else that isn’t here? in a multiverse, are all delusions really happening somewhere all the time? 
+
+# 115
+
+walking into an empty place to live alone forever. everyone else far away, on another continent mostly. maybe someone within walking distance, a few weeks’ journey. someone to trade with once or twice a year, friends from a past life. eventually then one day there is no visit. they will wait for the arrival and there is none. maybe it’s been years and the friends are old and their children make the trip(.) maybe for the first time, maybe retracing some old paths unseen since childhood, until they finally find the place, and maybe some corpse in bed or on the shitter or half eaten outside on a field somewhere. and that’s it. solitude until the end. someone said that nature self selects for cooperation, that the loners take themselves out of the running when something happens to them that they need help to escape but with no help they die. maybe that’s me. maybe that’s all the loners who walk into the wilds and are never seen again. something eventually kills us all but some things kill us sooner, some things kill us unnecessarily. maybe it’s ok. 
+
+# 116
+
+“the sounds of wind through the pine trees,” that’s what she said.
+
+# 117
+
+not much time now. maybe there was never enough.
+
+# 118
+
+dreams of friends, dreams of enemies, dreams of people yet to be. scenes in forests, bedrooms, long hallways and glass buildings. the shadow of towers falls across the woods. we walk under the trees. you ask me questions. i tell you stories. i wake and i want to talk to you but there is no way. only in dreams. we move from scene to scene, across the old bridge and the empty playground, the pine needles and dusty buildings. not my stories to tell but you want to hear them anyway. our voices ring off the trees. forever doesn’t seem so long. later watching silently, a woman takes a man into her (hands?) and gets him to tell her everything she wants to know. some interrogation infiltration, he won’t know anything until it’s too late. she is a professional, an expert at her craft. one agent of many, a specialist. like all my crew i am proud of her ability to advance the mission. only the best. fool will never know what he was a part of, what opportunities he missed, even in the dream lands. there always has to be a pansy, someone to take the fall. 
+
+(diagram omitted: dawg walk game)
+
+# 119
+
+time travel doesn’t require a body. it is possible to leave a body, go elsewhere, and then return. usually some time will have elapsed for the body in your absence. one-to-one travel is easiest but however long you were gone is also the amount of time elapsed for your body on your return. it’s possible to miss a lot as your body can carry on like you were never gone. ten-to-one at least is a better ratio to attain, so for every hour of your absence only a few minutes has elapsed. much harder to reach that level of mastery over this form of travel. and another thing: don’t trust any landmarks. the universe is constantly in motion and humans are entropy generators. the mountains and valleys can be relied upon to a point, but even they are not fixed. just as in dreams, words will rearrange themselves. after travel you may find the meaning of words has changed. in all these cases it is difficult and limiting to always approach the world as if it is brand new to you, but overall it is best not to make assumptions about where you are. 
+
+(diagram omitted: dawg walk game continued)
+
+# 120
+
+i don’t know if this is getting anywhere. for a while it seemed like something was coming through. now, no. all a slog to get anything down, and then it seems hollow, empty of meaning. like i’m forcing it. can’t always be a perfectly tuned receiver i guess. or maybe i can be and my choices are depriving this experience of meaning. in either case it seems like the only option is to keep showing up. for 120 days so far, if it’s 120 more who’s to say? that overall i will have conveyed more than i have so far? or does the inspiration stop here and it’s nothing but self referential inanity from here all the way down? i feel that if i just keep doing it there is a chance, but if i stop there will be no chance. still it bothers me that after four months of no late night creation cravings that once again i find myself at midnight wishing and yearning to make something more. for a time this was enough. no longer. that’s upsetting because the midnight cravings seem to be no good just a form of desperation, something to be fixed elsewhere. 
+
+# 121
+
+all these obsessions. do they really make life better? passing fancies, fleeting adoration for things bought and sold or just invested in. time. time spent. and that’s why it seems like life, like what else would we do here at this moment in history but indulge in the obsession? games and sports, music, movies. entertainment industrialism writ large. as if all our labors are just focused on feeding these obsessions. make real money to spend it on virtual rewards. consumables that aren’t really created or destroyed, just synthesized and discarded. to electrons do they return, from electrons were they summoned. just like our money. even currency becomes virtual. the obsessions seem so wasteful but what else is there for us right now? why would we go outside where nothing belongs to us? not the earth, not the sky, not the fruits of our labor? everything is bought and paid for. most of us are prisoners of one sort or another, in cages of steel or cages of entertainment. don’t you want to have fun? fun will happen when it benefits the man. 
+
+# 122
+
+what you feed in determines the quality of what you get out. bad soil produces struggling plants. bad water makes us poisoned. thoughtless production, a mind for cost alone, these things produce bad products. thoughtlessness, carelessness, apathy, bigotry, all of them. it’s not about the absence, it’s about the quality. plants still grow in places with no sun, no water. plants can’t grow in poisoned soil or toxic water. we aren’t so diverse. we need things and we need them to be good. we can make do with less, but we cannot make do without. the plants too, they can’t just go from one state to another. they evolved a certain way. learned to live in certain conditions, but then those conditions must persist for them to continue, otherwise they die just like us. otherwise they become twisted shadows of themselves. just like us. we are like the trees, our lives are like the roots. everything we do, every incomplete project, every important moment, every little recurring thing, they become our roots. we will optimize for the soil that we’re planted in. 
+
+# 123
+
+why does the tree grow?
+
+(diagram omitted: description of tree cellular automata)
+
+# 124
+
+in the heart of the ancient plan. towns and cities rising from villages and camps. growing in concentric patterns. at the center of each a fire, whatever fire is at the heart of your house. from a hovel with a weak foraged supply of wood to a city square with the church of a sun-worshipping religion at the center. whatever fire, whatever gravity to hold people in its orbit. developing connections with the outside, a respiration of goods and supplies and people. livestock, stores. defenses. someone wants to extinguish the fire or take it for themselves. will you let them? no? thus begins the cycle of war. better defense, better attack. they still want the fire, even though so much time has passed and if we really look we can’t find all that much different between ‘them’ and ’us’. sometimes a period of stasis, equilibrium. pause. let the land breathe with the settlement. people go about their business. networks of settlements form. roads, trade. the composition of the network influences the shape of its components. some settlements swell, some shrink, some vanish. 
+
+# 125
+
+dreams just below the surface.
+
+# 126
+
+“there are a hundred ways for this to go wrong,” he said, “but only one way for this to go right.”
+
+leaders asking their people to do something they would never do themselves. yet if challenged, it is they who are the strong ones and we who are the weakly cowards for failing to answer their call. for king and country and honor and freedom and equality or whatever’s on tap for this generation, whatever words stir the heart and twist the mind. who doesn’t want honor? only the dishonorable. right? only the guilty run from the challenge of justice and righteousness. only the sinner would hide from the eyes of god. but these are not gods or even god-kings. our leaders are as human as everybody else. as lizard, as bear, as pig. any beast of the earth, all with access to the divine but none have sovereignty over other beings. to not answer the call is to not be deceived. who benefits? if many or all benefit, then yes, only the selfish coward does not answer. but how often do we we make such an impact? how often does a single soldier turn the tide of war? there are many ways to go wrong, only one way to go right. 
+
+# 127
+
+“i sure as hell hope i ain’t bullshittin’ you.” that’s what he said. “‘bout none of this. ain’t know what i don’t know. you askin’ me questions, me givin’ you answers. is they the right answers? reckon some of them is. some of them ain’t. i sure won’t know. maybe you will. if’n you get a chance maybe you’ll come back and tell me what you learned. supposin’ as my directions ain’t wrong and you don’t end up walkin’ off a cliff. so’s i’ll tell you what you want to know but best be keeping your eyes open when you think you know where you’re goin’. deal?”
+
+# 128
+
+interconnectedness of all things ensures a change anywhere is eventually reflected everywhere. even some distant cousin of a forgotten family cannot disappear silently. there are always repercussions. any encounter binds timelines together. and we all encounter each other sooner or later. we can’t even perceive the linkages that bind us to each other, or to our common purpose. we just see the disconnection, the difference. the distance. a universe away can be closer than the next seat over. when there is nothing left between us we will forget all this again. the separation was needed, to stretch the links that tie all things together. all thingness was divine but leads to profound forgetfulness. adding some nothingness is bitter and sad but also makes all the things that are worthwhile and beautiful and interesting. we know this with every breath though we often forget we breathe. 
+
+# 129
+
+no one will write the story of the end of all things. the end comes long after writing, long before writing. the end will be told down the generations of the next world until they too can write it down, and by then it will transcend story and become myth and none will think to ask, who was witness at the end of the last world? 
+
+# 130
+
+roving tribes wandering the desert. for generations, looking for a place that was promised. worshipping their new god. receiving commandments. escaping the old gods, battling the other gods in the desert. a pantheon of villages and cities with their own gods, their own rules. finally then to arrive at the land that was promised, the city of the covenant, and it is not virgin territory. it belongs to another tribe, another god. so the wanderers must kill all those inside, must cast down and burn all other gods. so it is that the promised few came to god’s chosen land. again and again the story repeats. the old place with its big rulers, its old gods, its calcified structure. the new god with promises and adoration, given the right sacrifices. the new place, never really quiet new. the infidels who must die to satisfy a desire given divine blessing. sooner or later we are all there, fighting between the wanderers and the settled. 
+
+# 131
+
+“chart a course through the nebula,” she said.
+
+# 132
+
+the time’s gone so slow but the time’s come at last. mother releases her children into the sun, to drift slowly down to their new home. mother has done all she can. now she will watch and wait.
+
+# 133
+
+on the first day of the new world.
+
+miracle of miracles
+only one seed
+could not take root.
+
+# 134
+
+for millennia she walked between the stars.
+never stopping, never resting.
+longer than the empire that created her. longer than all the children of her cousins ever breathed.
+still she walked. always forward, never back, never to anywhere else than her final destination.
+only she ever knew where.
+no empire decided where we would emerge. for us our only god is the mother.
+
+# 135
+
+binding galaxies with ancient geometry.
+
 # 136
+
+what if it was us? i know it’s not but what if? would you know? would anyone know? what if somehow it all came down to two people standing at the water’s edge? one walking away, wrecking chances for anything else but what came to pass. not just for the one or the two but for all? is that even possible? or does the death inside and the death outside have a different origin, they just happened to come to fruition at the same time(?)  am i a reflection of it, or is it a reflection of me? not that we could go back and fix it anyway, for us or for them. the die was cast. still sometimes i can’t help but wonder. what if it was us? 
 
 # 137
 
@@ -752,6 +974,180 @@ when the thing that’s supposed to take you somewhere suddenly leaves the origi
 
 # 164
 
+(diagrams omitted: cast of characters)
+
+# 165
+
+they say the devil is in the details.
+
+ship minds, cast of characters in their own right. pod mind is aftermarket, modded, older. truck mind is vanilla, corporate, a snitch. not to be trusted. pod mind is much older than the rest, at least 15-20 years before the others. the relay station mind is just a node in the network, a dumb passthrough with quirks born out of boredom. resets every day but there are some traits it’s learned to store and restore when necessary. mother mind is a deep clone of a vast library. that’s how the pod mind ends up in the mother’s sim. they didn’t know how much she’d need so they gave her everything.
+
+none of the ships are made for many people. mother has no facilities except for some small quarters for one or two. maintenance, emergency, visitors. truck can carry up to 120 but only outfitted for one ‘supervisor’ and 3-4 crew. mostly they run with one. pod is only for one or two max, very cramped space to fly in. the bigger ships run on minds alone, people are incidental. star ships never needed crews like sailing ships. by then we were relegated to the back seat. 
+
+# 166
+
+what answer is anyone supposed to have? the ones who want something, don’t give them what they want. the ones who don’t ask, how do you know their intent? if they’re peddling answers, they want you to believe as they claim to believe. do you know what they really believe? two versions, at least. outside and inside. the real answer and the answer that was given. sometimes the same, or mostly not. everything is true. nothing is true. hard to tell the difference. later when you know the answer it’s too late to make a change. you can’t go meddling in the timeline for any sleight or con, you carry that stuff with you over the threshold. some yo can change, most it’s just not worth it. until you come back around again for another shot. most of us, we’re stuck here. living by our wits alone. 
+
+# 167
+
+for centuries it was the same.
+sometimes the sun was stormy or clear, for years at a time. this world would freeze or thaw at its whim, or whenever some great crack in the ground would spread earth and fire. one year the crops didn’t come in and countless died. over generations the ice receded. the creatures of the snow moved or died or changed. all these forces worked in concert. the air, the ground, the sky. but we were here and we thought we deserved more. we thought we’d been given dominion over this world and its creatures. all our legends put us at the apex of history, of nature. no one told us that we were just one type of beings among other beings, at least no one we were listening to. we were the greatest, the chosen few coming to enact god’s will upon the earth. so when we did something truly extraordinary and killed our mother no one was much surprised. 
+
+# 168
+
+when they want to know what’s wrong but don’t want to take the steps to fix it. when they want to benefit from a person’s labor but don’t want to accept the process that person went through in order to provide their labor. benefit with no downside. respect as long as that respect isn’t questioned or examined too carefully. we are supposed to be so far from primitive life, yet the cultured city dwelling office worker knows less about their world than the one who lives in their filth outside. yet one is primitive and worthy of derision and the other one doing the deriding is in the lucky few, the chosen class. their filth is swept away, out of sight. buried. so they can ask what’s wrong and face none of the consequences. they sit and work in their glass halls with their glowing screens and networked mind and forget there was ever another way. 
+
+# 169
+
+never thought it would go like this. wrecked, forgotten, sure. but also the cold. the impossible doubt. the hurt. lonely like it’s a force of nature. like the seasons, like the tide. impossible to escape. only by changing the moons and the suns and the orbit of this world in the cosmos would it be another way. and then we may as well be living on another planet in another time with other people. what other people? this is the crash site, the place they talk about when they say “marooned.” maybe if we walk fifty miles and a hundred years we would find someone else. if we keep walking we could walk all the way into another age. one of fellowship and cooperation. just as likely we’d walk into a war, an utter dissolution of our fragile bonds. we may yet live to see all these things and more. but now it’s just the crash, just the ruin. starting small and cold and alone.
+
+# 170
+
+“nothing is stopping us.”
+
+the topography of ruin. there’s an old story, about a farmer. told and retold through the ages. who knows if there ever was a farmer. it’s difficult to search time for each other, so maybe he’s still out there. the story says that the farmer lived on the border with another tribe. they were at peace, but it was not always so. the farmer kept horses. one day his best mare jumped the stable fence and escaped. people offered their sympathy. the farmer didn’t seem to care. one day she came back, pregnant by a stallion from the neighboring tribe. so the tribe of the farmer came and congratulated him for getting three horses including the mare returned. he didn’t seem to care. one day the farmer’s son broke his leg working with the new stallion. again the farmer didn’t care. finally war came again between the tribes and all the men were called up to fight. because the farmer’s son had a broken leg, he didn’t have to fight. the story ends there but i wonder what happened next. did the farmer ever care?
+
+# 171
+
+walking slow. going carefully, saving energy, looking for safety.
+
+(diagram: lines of equal length next to values “hunger, thirst, energy, and cold”)
+
+food and water in, heat in. rest, sleep, pause. don’t wait too long. the clock is always ticking.
+
+the animals can smell fear. circling when they sense your weakness. kill or be killed. don’t let them get to you first. the cold is always coming. just wait until the sun goes down. make sure you get inside. the dark will kill you fastest of them all. there is no way out but you can still make the fire. 
+
+# 172
+
+we didn’t meet anyone on the road. leaving the cities, pointing into the heart of desolation. we thought we’d see at least someone out there, someone else fleeing the cities, someone tracing an idle circuit between towns. past the old ports of entry, back when there were still borders, back when someone still cared enough to enforce them. rugged buildings ready for war, long empty and silent. past the old fuel stations where they would stop and rest and fill up their machines with whatever they used to run on. past the lonely overpasses, bridges over the turns into whatever hidden settlements used to lurk just behind those hills. then finally coming to the mountain pass, now and forever blocked by a rock slide. have to take the long way round. these days no one comes up here to fix it. the roads go back to trails, worn down by passage of the few like us who still walk. 
+
+# 173
+
+you didn’t think anyone would notice or care, did you? at least anyone who could do anything about it? the ones who notice aren’t the ones who can change, at least not alone. the ones who can move mountains by themselves, they don’t see things the same. to them we become as different species, one greater, one lesser. they might kill us like we might kill a pest. a means to an end when they require numbers or labors, or great works. they might order the mountain moved by themselves, but who do you think did the actual moving? who among you had the power to invoke change? so you can try to get them to notice, to want to do anything, and it might work... you could get them to use their power for your benefit. or you can get ten thousand pairs of eyes and hands rallied to your cause, to see what you see, to care as you care. then the mountain movers can do their work, animated by their own beliefs. then, maybe you can see something done about what you care for. 
+
+# 174
+
+i forget. how did it go again?
+
+what hasn’t been explored or explained?
+
+beginning, middle, end?
+
+# 175
+
+smoke still rising, fires still burning. 
+
+the column of smoke rises, undisturbed in the windless sky. never seems to get any closer no matter how much i walk. still the hills, the smoke, the sun. if not for the sun’s motion, the slow expanding smoke, the shadows tracking on the ground, i would think there is no time here. 
+the wreck is always just over the horizon, just out of reach. what will i find when i get there, if i get there? did the ship come down in one piece? is it strewn all over a valley? will anything be left but debris? will the fire consume everything? what’s been burning so long? nothing in the ship should be so combustible. maybe it landed in a forest and the trees have caught. i haven’t seen any trees here though. not even grass. nothing for life. the senses say there’s nothing breathable. so what burns? and why does the horizon never come any closer? maybe i should just rest here. 
+
+# 176
+
+there was something in the ground that made it burn. the ship came down in a valley with some kind of frozen lakes. methane maybe? what would combust in this environment(?) never mind. this place is weird, not exactly consistent. doesn’t matter much anyway. nothing can be salvaged from that mess while it burns. maybe something got thrown free but most of the ship came down in one piece. the drive section crushed the midship. a few pods were thrown free. i wonder how long this valley will be burning. if eventually that whole thing will go up. best be far away if that happens. not that it will matter much. with supplies from the command module i’ll last a week or two at most. no one will hear my signal out there. same thing that let them jump me, whoever it was. the sun’s putting out too much radiation. the wrong kind. i doubt anyone’s living here. so i guess this is it. my new home. my last home. might as well go down to the wreck and see what can be salvaged. not like i got anything better to do.
+
+# 177
+
+you came to me in the twilight before dawn. we held each other close despite all that’s happened. you said... what did you say? peace. that’s all i remember. go be at peace. and the sun came up and you were gone.
+
+the wreck is still too hot to touch. it could burn forever. no way to tell. but it’s still broadcasting. a beacon. its last telemetry. what it saw when it came down. even though the ship is dead i can see what it saw when it came down. it says there are structures some days walk from here. maybe someone lives here after all. may as well try.
+
+# 178
+
+we’ll walk forever.
+until we find
+what we’re looking for,
+or die in the attempt.
+
+## first section
+
+introduce the cast in chronological order:
+
+1. the old city, some days before the hour of reckoning. morning, a train pulls into the station. the creator makes a cameo, squished between two people on the subway, reading a book.
+2. the void. the one with no name plugs in to her ship’s mind and cruises in the deep. her body is beginning to fail. she falls asleep plugged in. she and the mind dream together.
+3. space. the delivery driver goes about his work. mostly the ship does the job, he just keeps an eye on things. they pass through a hot system. the ship is attacked. it goes down.
+4. the middle city. the detective has a meeting for her second job, the one she does after hours. she assigns an assistant to her client. on her way home she gets a call that something big has happened.
+5. the wanderer arrives at the young city. boats at the docks. walks to the temple, looking for a free place to sleep. the priest needs something for the upcoming festival.
+
+## timeline
+
+1.
+- the maker begins the seed program.
+- the glory of creation.
+- outline of technology.
+- an idea, vague visualization.
+- the hour of reckoning.
+- the bomb, the gun, the feather.
+- devise the plan for the mother.
+- create her mission.
+- set out for the stars on the first steps.
+- the idea of the mother gathers dust on the shelf.
+
+2.
+- plugged in.
+- running from debts.
+- dying.
+- the mind makes its first mistake.
+- takes her back to the corporation.
+- they take her ship, her body, her mind.
+- the ship mind saves her as she had saved it.
+- keeps a backup stashed deep where corp will never find it.
+- goes into what becomes the mother.
+
+3.
+- the crash.
+- walking in the infinite desolation of the gray world.
+- finds the wreck, goes looking for a settlement, finds the archives.
+- the garden.
+- the delivery guy becomes the custodian, god kin.
+- really he died but the mother took him with her. (nope, not in this version. the gray world is a real place. -ed)
+
+4.
+- the detective investigates insurance, liability.
+- just her day job.
+- arranges contestants for the fights at night.
+- clones, helpers in simulated games.
+- works with an avatar of the mother and the custodian.
+- finds out who they all really are.
+- the city will be gone soon.
+
+5.
+- questing some aimless quest.
+- following a yearning.
+- something leads the wanderer forward.
+- to the young city.
+- to the valleys.
+- searching for a legend there, the one they based their religion on.
+- things are going wrong.
+- they won’t be able to stay forever.
+- finds the ancient archive, the custodian.
+- receives the mother’s final message.
+
+# 179
+
+the fire carriers. we can all carry the fire. in this way we are all chosen.
+
+# 180
+
+nothing flat. the odors creep in. faceless people. changing at a whim. skin from rough to smooth to thin to thick. faces, expressions. body thick to slender. hair light, dark. eyes into focus. changing. changing even as they move. coming closer, touching. rising. falling. the embrace. inescapable. as is the changing. choosing. they become as you choose, as you desire. what is this? how did i come here, why is this blank shapeshifter pursuing me? i should be more scared but it’s a turn-on. they change as i think. i change them. why? this place. i see only one of those beings. why does it pursue me? what does it want? or does it only reflect what i want? what do i want? if i let it get close enough maybe it will tell me. but then there will be no escape. do i let it come close? 
+
+# 181
+
+a noise day. nothing but mixed signals in the void.
+
+# 182
+
+how can you tell if anything is good or bad? it seems easy. good stuff is good. it’s whatever you want it to be. bad stuff is bad. you just know. but what about when something that seemed good turns out bad, or the other way around? if it starts as one and ends as the other, (was) it ever really either? i guess that’s the point of the farmer with the horse. he doesn’t take either, just assumes both at all times. and what then is the truth? it too is changeable over time. or any other state that may not always hold its shape. because one day i will be dead but now i am alive enough to write. does that mean i was always dead? always alive? maybe the problem is in the always. nothing is ever one thing forever. in the old stories the gods are always malleable, always changing their minds or their bodies. what then if we an’t count on the divine, what can we count on? is there ever a wellspring of eternal goodness or are we always going through the cosmos looking over our shoulder? 
+
+# 183
+
+“you have arrived at your destination.” after i don’t know how long, the days and nights are different here. the crash log says it’s been so many hours, minutes, seconds, but what do those units count for here? arrived, yes. arrived. here? on the scans it looked like structures, and these are structures. under a protective dome, a broken dome. the scans didn’t show a broken dome. whatever’s in there isn’t gonna be in good shape. something cracked the dome, or maybe it’s just so old that it fell down under its own weight. there’s still a compound inside, what showed up on the senses. the entrance still looks intact. i came all this way, don’t have anywhere else to go. may as well go take a look.
+
+# 184
+
+this place was beautiful. once, before the dome fell, there was a garden here. trees, plants, water. all frozen, all dead, all desiccated. all the buildings are open, airy. it must have been pleasant like a summer day back home. with all the windows wide, birds singing. i wonder if there are bird bones somewhere in this mess. most of the dome stayed up, just one big tear cutting through the center, like it failed or was damaged only a little. enough to do this. the houses are intact. impossible to say how old. old enough. maybe there’s a person’s bones in here too. there’s no logos anywhere, no branding. this place must have belonged to a person, or people who weren’t affiliated with any company or government. maybe that’s why they were all the way out here in this private oasis. there’s worse places to die. maybe they left something i could use. not much time left. guess i’ll search the houses.
+
+# 185
+
+
 # 241
 
 # 242
@@ -767,3 +1163,5 @@ old people hanging out at an old store. like they’ve been there forever. the p
 can’t remember. memory can’t be trusted. illusion everywhere. forgetting. too many universes. too much traveling. it all runs together. unending. once i forgot the forgetting. they called that “childhood.” playing games.
 
 a grid of spaces. players occupy one space each. they can move to other spaces using special rules. they can be in the same space together. they can interact with each other across spaces with signals or weapons. the object of the game is survival. you survive by destroying all your opponents, or by reaching agreements with them, or escaping. the win state is subject to change. where i come from they call this “house rules.” house rules are whenever you make up your own rules and don’t do what the rules of the game tell you to do. the game is just a set of pieces, you can move them however you please and assign any meaning you choose. add new pieces or take away old ones. write your own rules, make your own pieces. the game isn’t what anybody tells you it is, it’s what you make of it. we all make up our own rules. sometimes we use someone else’s rulebook and stick by it. other times there are no rules. or are there? who else is playing?
+
+[^1]:	robert anton wilson in something
