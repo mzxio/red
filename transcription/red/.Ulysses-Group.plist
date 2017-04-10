@@ -2096,6 +2096,16 @@
 					<integer>306</integer>
 				</dict>
 			</dict>
+			<key>3.27.17.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513485713.35228699</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>1184</integer>
+				</dict>
+			</dict>
 			<key>3.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -2916,18 +2926,14 @@
 					<integer>102</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>as told by.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>513472028.77305502</real>
 				<key>lastModification</key>
-				<real>513472028.77305502</real>
+				<real>513485762.81643498</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>1181</integer>
+					<integer>1188</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -2936,6 +2942,9 @@
 	<array>
 		<array>
 			<string>THE RED BOOKS.md</string>
+		</array>
+		<array>
+			<string>as told by.md</string>
 		</array>
 		<array>
 			<string>Transcription Notes.md</string>
@@ -3805,10 +3814,10 @@
 			<string>283.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>284.md</string>
 		</array>
 		<array>
-			<string>284.md</string>
+			<string>3.27.17.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -3818,7 +3827,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>1181</integer>
+			<integer>1189</integer>
 		</dict>
 	</dict>
 </dict>
