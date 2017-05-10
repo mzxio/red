@@ -6,6 +6,54 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>189.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516131946.76035798</real>
+				<key>lastModification</key>
+				<real>516131946.76035798</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>278</integer>
+				</dict>
+			</dict>
+			<key>230.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516131946.75572598</real>
+				<key>lastModification</key>
+				<real>516131946.75572598</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>277</integer>
+				</dict>
+			</dict>
+			<key>Attacked- Who would have attacked- Nothing worth protecting but the dome. If they couldn’t fix it,.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516136034.490215</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>343</integer>
+				</dict>
+			</dict>
+			<key>Beautiful, once.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516135885.18435299</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>337</integer>
+				</dict>
+			</dict>
 			<key>Crashing.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -16,14 +64,48 @@
 					<integer>176</integer>
 				</dict>
 			</dict>
-			<key>How much wreckage is out there.md</key>
+			<key>Deciding to stay.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516133479.13753301</real>
 				<key>lastModification</key>
-				<real>516128221.70340002</real>
+				<real>516133479.13753301</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>217</integer>
+					<integer>321</integer>
+				</dict>
+			</dict>
+			<key>Going into an empty place to live alone forever.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516134572.10103297</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>331</integer>
+				</dict>
+			</dict>
+			<key>How much wreckage is out there.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516132595.21561497</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>306</integer>
+				</dict>
+			</dict>
+			<key>How quickly can things change.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516136723.177921</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>347</integer>
 				</dict>
 			</dict>
 			<key>It begins by the fire, in howling darkness.md</key>
@@ -59,11 +141,11 @@
 			<key>Never seems to get any closer.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516125014.96611798</real>
+				<real>516133927.87440002</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>166</integer>
+					<integer>323</integer>
 				</dict>
 			</dict>
 			<key>No where. Now here.md</key>
@@ -89,21 +171,51 @@
 			<key>Walking down the old train tracks.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516128267.55958599</real>
+				<real>516134431.05585098</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>223</integer>
+					<integer>329</integer>
+				</dict>
+			</dict>
+			<key>Weeks getting ready.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516132630.33967698</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>311</integer>
 				</dict>
 			</dict>
 			<key>What do we take with us.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516128271.98573899</real>
+				<real>516134362.90939599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>225</integer>
+					<integer>327</integer>
+				</dict>
+			</dict>
+			<key>What do you do when there’s only one way out.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516137318.30898303</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>350</integer>
+				</dict>
+			</dict>
+			<key>What is this place.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516135897.58629</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>339</integer>
 				</dict>
 			</dict>
 			<key>Whatever it is, gone now.md</key>
@@ -131,6 +243,12 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>230.md</string>
+		</array>
+		<array>
+			<string>189.md</string>
+		</array>
+		<array>
 			<string>It begins by the fire, in howling darkness.md</string>
 		</array>
 		<array>
@@ -149,10 +267,10 @@
 			<string>Wreckage burning.md</string>
 		</array>
 		<array>
-			<string>It isn’t where we are, it’s where we aren’t.md</string>
+			<string>Deciding to stay.md</string>
 		</array>
 		<array>
-			<string>Whatever it is, gone now.md</string>
+			<string>What do you do when there’s only one way out.md</string>
 		</array>
 		<array>
 			<string>What do we take with us.md</string>
@@ -161,10 +279,34 @@
 			<string>Walking down the old train tracks.md</string>
 		</array>
 		<array>
+			<string>It isn’t where we are, it’s where we aren’t.md</string>
+		</array>
+		<array>
+			<string>Whatever it is, gone now.md</string>
+		</array>
+		<array>
 			<string>Never seems to get any closer.md</string>
 		</array>
 		<array>
+			<string>Going into an empty place to live alone forever.md</string>
+		</array>
+		<array>
 			<string>How much wreckage is out there.md</string>
+		</array>
+		<array>
+			<string>Beautiful, once.md</string>
+		</array>
+		<array>
+			<string>How quickly can things change.md</string>
+		</array>
+		<array>
+			<string>What is this place.md</string>
+		</array>
+		<array>
+			<string>Weeks getting ready.md</string>
+		</array>
+		<array>
+			<string>Attacked- Who would have attacked- Nothing worth protecting but the dome. If they couldn’t fix it,.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -174,7 +316,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>225</integer>
+			<integer>350</integer>
 		</dict>
 	</dict>
 </dict>

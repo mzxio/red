@@ -1,6 +1,6 @@
 ### Walking down the old train tracks.
 
-Most everyone’s gone home. Evening or the weekend or both. Sun hasn’t quite set. Idling between afternoon and night. Old rundown part of town. Junkyards and overgrown weeds.
+Most everyone’s gone home, for the evening or weekend or both. Sun hasn’t quite set. Idling between afternoon and night. Old rundown part of town. Junkyards and overgrown weeds.
 
 Going around the edges, gravel and dirty grass. Places between the fences to slip through. Places to hide. Some days it’s needles and bottles under the trees. Some days it’s riders in caravans. 
 
@@ -12,4 +12,4 @@ I tell him I didn’t want to upset him or the dog. He shakes his head. Comes do
 
 His hand was dry, dirty. On my hand there’s dirt and grease now. Stains where he touched my shoulder. I smell the grease and sweat. A mark of hard work and friendship. 
 
-Precious gifts in fading night.
+Precious gifts in that fading light.

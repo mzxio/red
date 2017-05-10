@@ -1,0 +1,14 @@
+### How quickly can things change? 
+
+Pivot points where all our stories turn. One way to one reality or another. Almost impossible to explain later. In between it could be moments, generations. That is how fast things change. 
+
+“Learning takes time.”
+
+We forget why things were the way they were, why we thought as we did. What seems important to parents seems trivial to their children. Reliving the lives of ancestors. 
+
+“Some things you have to learn the hard way.” 
+
+The children taught themselves. They learned in their own way in their own time. Some learned what came before. No amount of history or collective memory could save them all. Little by little they discovered more, stopped repeating some mistakes. 
+
+
+“The lesson that kills is no lesson at all.”

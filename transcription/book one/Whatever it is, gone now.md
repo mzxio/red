@@ -8,4 +8,4 @@ Walking in circles. No map or memory. Thought, sense, idea. Snuffed out at the m
 
 Could just go only from one moment to the next. Keep no records. Nothing deliberate will ever happen. Repeat past mistakes, solve problems that already had solutions. Going round and round.
 
-Forget it all. Learn nothing. Until the next time. 
+“Forget it all. Learn nothing. Until the next time.” 

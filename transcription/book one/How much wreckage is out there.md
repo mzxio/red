@@ -1,11 +1,7 @@
 ### How much wreckage is out there?
 
-Old junk left by long dead civilizations who walked themselves into oblivion. Spacefaring tribes, nomads of the stars, leaving their bodies along the way.
+Spacefaring tribes, running from world to world. Nomads of the stars. Bodies left along the way. Rock to cloud to sun.
 
-Running from world to world. Rock to cloud to sun.
+Wars fought. Old junk left by long-dead civilizations who walked themselves into oblivion. Left twisted and broken, forgotten on some airless sphere. What were they fighting for, and who were they fighting? 
 
-What wars were fought? What were they fighting for, and who were they fighting? What junk was left twisted and broken, forgotten on some airless sphere?
-
-If we ever found some lost scrap, would we even want to know? Would we recognize it? Or would it just be another remnant of ourselves? 
-
-Nomad-kin finding bones of ancestors. 
+Nomad kin finding bones of ancestors. If we ever found some lost scrap, would we recognize it? Would it be a remnant of ourselves? Would we even want to know?
