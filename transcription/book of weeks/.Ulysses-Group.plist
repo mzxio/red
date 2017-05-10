@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>It begins by the fire, in howling darkness.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515958597.36733103</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>20</integer>
+				</dict>
+			</dict>
+			<key>Nowhere. Now here.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515963652.93329602</real>
+				<key>lastModification</key>
+				<real>515963652.93329602</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>37</integer>
+				</dict>
+			</dict>
+			<key>The crash.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516056972.94695902</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>44</integer>
+				</dict>
+			</dict>
+			<key>Time holds many stories. This is one of them.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515958600.00972098</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>22</integer>
+				</dict>
+			</dict>
+			<key>Waking up in any city. On the platform waiting for the train with so many other people. Wearing.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516056922.93700802</real>
+				<key>lastModification</key>
+				<real>516056922.93700802</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>43</integer>
+				</dict>
+			</dict>
+			<key>Who would you be in any other time.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515964288.23117697</real>
+				<key>lastModification</key>
+				<real>515964288.23117697</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>38</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Time holds many stories. This is one of them.md</string>
+		</array>
+		<array>
+			<string>It begins by the fire, in howling darkness.md</string>
+		</array>
+		<array>
+			<string>The crash.md</string>
+		</array>
+		<array>
+			<string>Who would you be in any other time.md</string>
+		</array>
+		<array>
+			<string>Nowhere. Now here.md</string>
+		</array>
+		<array>
+			<string>Waking up in any city. On the platform waiting for the train with so many other people. Wearing.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>45</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

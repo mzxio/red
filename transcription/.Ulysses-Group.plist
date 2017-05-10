@@ -4,7 +4,9 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>1-284 unedited draft</string>
+		<string>book one</string>
+		<string>book of weeks</string>
+		<string>books</string>
 		<string>red</string>
 		<string>red edit</string>
 	</array>
@@ -12,14 +14,34 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>1-284 unedited draft</key>
+			<key>book of weeks</key>
 			<dict>
 				<key>lastModification</key>
-				<real>514176752.05564302</real>
+				<real>515956879.707371</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>2</integer>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>book one</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516056912.43148297</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>18</integer>
+				</dict>
+			</dict>
+			<key>books</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515021591.58128202</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>10</integer>
 				</dict>
 			</dict>
 			<key>red</key>
@@ -43,7 +65,26 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>175.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515966204.12157297</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>175.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -51,7 +92,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>5</integer>
+			<integer>18</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Untitled - 2.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515023963.59030998</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515023596.80067903</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>22</integer>
+				</dict>
+			</dict>
+			<key>attempts to make this into a story.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515023597.01063597</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
+			<key>the last night in the city. sweep the last floor in the last building, the last broom closet.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514940372.72988302</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>the last night in the city. sweep the last floor in the last building, the last broom closet.md</string>
+		</array>
+		<array>
+			<string>attempts to make this into a story.md</string>
+		</array>
+		<array>
+			<string>Untitled - 2.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>26</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

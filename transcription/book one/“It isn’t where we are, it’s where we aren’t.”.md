@@ -1,0 +1,11 @@
+“It isn’t where we are, it’s where we aren’t.”
+
+In the infinite, everything is. There is no isn’t. Isn’t knows love and loss, knows here and now. Isn’t cuts away all the extra information and leaves nothing but the smallest piece, the part we get to hold. 
+
+What is something? Start with what it’s not, or start with the infinite. Start with process, with action. Maybe it’s anything, or everything. Do you know? Can you? 
+
+In isn’t we find ourselves, our identities, our egos, our places. We are children of isn’t. We don’t know our boundaries but we are still bounded. The infinity we start with is the infinity of nothing. We dream of infinite something, of infinite is.
+
+We say we’ll know in the hereafter. Mythology tells of an all-being who comes from the infinite. Even in the retelling, the all-being becomes just like us. All the isn’t, together. When there is nothing left, they become forever. 
+
+Just on the other side of infinite nothing is infinite something. You are the all-being, here and now. Everything else, everything extraneous, isn’t. You can have infinite is in infinitesimal isn’t. 

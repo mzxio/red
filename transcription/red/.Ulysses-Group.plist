@@ -2,28 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict/>
 		<key>sheetClusters</key>
 		<dict>
 			<key>1.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063554.095716</real>
+				<real>516050106.017946</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>94</integer>
+					<integer>1200</integer>
 				</dict>
 			</dict>
 			<key>10.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.78794098</real>
+				<real>516050106.02041101</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>120</integer>
+					<integer>1206</integer>
 				</dict>
 			</dict>
 			<key>100.md</key>
@@ -139,11 +143,11 @@
 			<key>11.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.78903002</real>
+				<real>516050106.02165401</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>123</integer>
+					<integer>1209</integer>
 				</dict>
 			</dict>
 			<key>110.md</key>
@@ -249,11 +253,11 @@
 			<key>12.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.789828</real>
+				<real>516050106.022973</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>124</integer>
+					<integer>1212</integer>
 				</dict>
 			</dict>
 			<key>120.md</key>
@@ -359,11 +363,11 @@
 			<key>13.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.79023802</real>
+				<real>516050106.02254999</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>125</integer>
+					<integer>1211</integer>
 				</dict>
 			</dict>
 			<key>130.md</key>
@@ -469,11 +473,11 @@
 			<key>14.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063789.94574302</real>
+				<real>516050106.02211201</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>215</integer>
+					<integer>1210</integer>
 				</dict>
 			</dict>
 			<key>140.md</key>
@@ -579,11 +583,11 @@
 			<key>15.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063789.94602698</real>
+				<real>516050106.02340901</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>216</integer>
+					<integer>1213</integer>
 				</dict>
 			</dict>
 			<key>150.md</key>
@@ -689,11 +693,11 @@
 			<key>16.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063789.94524902</real>
+				<real>516050106.02432197</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>214</integer>
+					<integer>1215</integer>
 				</dict>
 			</dict>
 			<key>160.md</key>
@@ -799,11 +803,11 @@
 			<key>17.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063869.02710301</real>
+				<real>516050106.02474099</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>280</integer>
+					<integer>1216</integer>
 				</dict>
 			</dict>
 			<key>170.md</key>
@@ -909,11 +913,11 @@
 			<key>18.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063864.63005102</real>
+				<real>516050106.02385402</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>277</integer>
+					<integer>1214</integer>
 				</dict>
 			</dict>
 			<key>180.md</key>
@@ -1019,21 +1023,21 @@
 			<key>19-20.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063871.43013602</real>
+				<real>516050106.02562398</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>284</integer>
+					<integer>1218</integer>
 				</dict>
 			</dict>
 			<key>19.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063870.24896401</real>
+				<real>516050106.02513599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>282</integer>
+					<integer>1217</integer>
 				</dict>
 			</dict>
 			<key>190.md</key>
@@ -1139,11 +1143,11 @@
 			<key>2.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063643.27790499</real>
+				<real>516050106.01707202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>136</integer>
+					<integer>1198</integer>
 				</dict>
 			</dict>
 			<key>20.md</key>
@@ -1259,11 +1263,11 @@
 			<key>21.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063873.93882602</real>
+				<real>516050113.272223</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>288</integer>
+					<integer>1220</integer>
 				</dict>
 			</dict>
 			<key>210.md</key>
@@ -2109,11 +2113,11 @@
 			<key>3.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063645.07359898</real>
+				<real>516050106.01833397</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>138</integer>
+					<integer>1201</integer>
 				</dict>
 			</dict>
 			<key>30.md</key>
@@ -2219,11 +2223,11 @@
 			<key>4.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063648.84089202</real>
+				<real>516050106.01915902</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>142</integer>
+					<integer>1203</integer>
 				</dict>
 			</dict>
 			<key>40.md</key>
@@ -2329,11 +2333,11 @@
 			<key>5.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063638.826096</real>
+				<real>516050106.01960999</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>127</integer>
+					<integer>1204</integer>
 				</dict>
 			</dict>
 			<key>50.md</key>
@@ -2439,21 +2443,21 @@
 			<key>6.18.16.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063584.615803</real>
+				<real>516050106.017573</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>106</integer>
+					<integer>1199</integer>
 				</dict>
 			</dict>
 			<key>6.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063646.72569197</real>
+				<real>516050106.01875001</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>140</integer>
+					<integer>1202</integer>
 				</dict>
 			</dict>
 			<key>60.md</key>
@@ -2569,11 +2573,11 @@
 			<key>7.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063641.91549301</real>
+				<real>516050106.01999599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>134</integer>
+					<integer>1205</integer>
 				</dict>
 			</dict>
 			<key>70.md</key>
@@ -2679,11 +2683,11 @@
 			<key>8.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.78819501</real>
+				<real>516050106.02123803</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>121</integer>
+					<integer>1208</integer>
 				</dict>
 			</dict>
 			<key>80.md</key>
@@ -2789,11 +2793,11 @@
 			<key>9.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063608.78840798</real>
+				<real>516050106.02080202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>122</integer>
+					<integer>1207</integer>
 				</dict>
 			</dict>
 			<key>90.md</key>
@@ -2899,41 +2903,41 @@
 			<key>Rules.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063566.14612502</real>
+				<real>516050106.01664299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>104</integer>
+					<integer>1197</integer>
 				</dict>
 			</dict>
 			<key>THE RED BOOKS.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063439.72374201</real>
+				<real>516050106.01586097</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>68</integer>
+					<integer>1195</integer>
 				</dict>
 			</dict>
 			<key>Transcription Notes.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>509063563.26117897</real>
+				<real>516050106.01543301</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>102</integer>
+					<integer>1194</integer>
 				</dict>
 			</dict>
 			<key>as told by.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>513485762.81643498</real>
+				<real>516050106.01624697</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>1188</integer>
+					<integer>1196</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -3824,10 +3828,15 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>6</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>1189</integer>
+			<integer>1220</integer>
 		</dict>
 	</dict>
 </dict>

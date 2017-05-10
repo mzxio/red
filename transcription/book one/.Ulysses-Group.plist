@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Fires burning.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516059340.49258298</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>78</integer>
+				</dict>
+			</dict>
+			<key>It begins by the fire, in howling darkness.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516077508.67308098</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>126</integer>
+				</dict>
+			</dict>
+			<key>Jump.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516065259.87661099</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>102</integer>
+				</dict>
+			</dict>
+			<key>Never seems to get any closer. Always over the next ridge. What will I find when I get there, if I.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516067054.94037801</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>114</integer>
+				</dict>
+			</dict>
+			<key>No where. Now here.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516076024.697878</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>118</integer>
+				</dict>
+			</dict>
+			<key>Signals from the deep.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516122280.70968401</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>154</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516065371.94846702</real>
+				<key>lastModification</key>
+				<real>516065371.94846702</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>113</integer>
+				</dict>
+			</dict>
+			<key>Walking in circles without a map or memory.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516122323.898332</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>158</integer>
+				</dict>
+			</dict>
+			<key>Wrecked.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516121800.38910401</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>152</integer>
+				</dict>
+			</dict>
+			<key>“It isn’t where we are, it’s where we aren’t.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516085483.745327</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>149</integer>
+				</dict>
+			</dict>
+			<key>“What do we take with us-”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516085666.93566602</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>151</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>It begins by the fire, in howling darkness.md</string>
+		</array>
+		<array>
+			<string>Wrecked.md</string>
+		</array>
+		<array>
+			<string>No where. Now here.md</string>
+		</array>
+		<array>
+			<string>Signals from the deep.md</string>
+		</array>
+		<array>
+			<string>Jump.md</string>
+		</array>
+		<array>
+			<string>Fires burning.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>“What do we take with us-”.md</string>
+		</array>
+		<array>
+			<string>Walking in circles without a map or memory.md</string>
+		</array>
+		<array>
+			<string>“It isn’t where we are, it’s where we aren’t.”.md</string>
+		</array>
+		<array>
+			<string>Never seems to get any closer. Always over the next ridge. What will I find when I get there, if I.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>159</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
