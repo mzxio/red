@@ -8,7 +8,7 @@ Waking dreams. Plains, mountains, valleys, canyons, rivers, cities. A palace, a 
 
 `Message undeliverable. Signal lost.`
 
-Desert. Choices made this land. Wasteland. Infinite desolation. Nothingness and potential, there, just out of reach. Beyond the horizon. Hidden life revealed. Waiting at the shore.
+Choices made this land. Desert. Wasteland. Infinite desolation. Nothingness and potential, there, just out of reach. Beyond the horizon. Hidden life revealed. Waiting at the shore.
 
 “Don't know where, don't know when.“
 

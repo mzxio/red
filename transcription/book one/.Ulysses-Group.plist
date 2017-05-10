@@ -6,14 +6,24 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Fires burning.md</key>
+			<key>Crashing.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516059340.49258298</real>
+				<real>516125433.48273802</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>78</integer>
+					<integer>176</integer>
+				</dict>
+			</dict>
+			<key>How much wreckage is out there.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516128221.70340002</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>217</integer>
 				</dict>
 			</dict>
 			<key>It begins by the fire, in howling darkness.md</key>
@@ -26,6 +36,16 @@
 					<integer>126</integer>
 				</dict>
 			</dict>
+			<key>It isn’t where we are, it’s where we aren’t.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516125677.46693897</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>189</integer>
+				</dict>
+			</dict>
 			<key>Jump.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -36,14 +56,14 @@
 					<integer>102</integer>
 				</dict>
 			</dict>
-			<key>Never seems to get any closer. Always over the next ridge. What will I find when I get there, if I.md</key>
+			<key>Never seems to get any closer.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516067054.94037801</real>
+				<real>516125014.96611798</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>114</integer>
+					<integer>166</integer>
 				</dict>
 			</dict>
 			<key>No where. Now here.md</key>
@@ -56,68 +76,54 @@
 					<integer>118</integer>
 				</dict>
 			</dict>
-			<key>Signals from the deep.md</key>
+			<key>Signals.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516122280.70968401</real>
+				<real>516127323.37992299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>154</integer>
+					<integer>206</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>Walking down the old train tracks.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516065371.94846702</real>
 				<key>lastModification</key>
-				<real>516065371.94846702</real>
+				<real>516128267.55958599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>113</integer>
+					<integer>223</integer>
 				</dict>
 			</dict>
-			<key>Walking in circles without a map or memory.md</key>
+			<key>What do we take with us.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516122323.898332</real>
+				<real>516128271.98573899</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>158</integer>
+					<integer>225</integer>
 				</dict>
 			</dict>
-			<key>Wrecked.md</key>
+			<key>Whatever it is, gone now.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516121800.38910401</real>
+				<real>516125599.01247901</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>152</integer>
+					<integer>182</integer>
 				</dict>
 			</dict>
-			<key>“It isn’t where we are, it’s where we aren’t.”.md</key>
+			<key>Wreckage burning.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516085483.745327</real>
+				<real>516125512.31761599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>149</integer>
-				</dict>
-			</dict>
-			<key>“What do we take with us-”.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>516085666.93566602</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>151</integer>
+					<integer>180</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -128,34 +134,37 @@
 			<string>It begins by the fire, in howling darkness.md</string>
 		</array>
 		<array>
-			<string>Wrecked.md</string>
+			<string>Crashing.md</string>
 		</array>
 		<array>
 			<string>No where. Now here.md</string>
 		</array>
 		<array>
-			<string>Signals from the deep.md</string>
+			<string>Signals.md</string>
 		</array>
 		<array>
 			<string>Jump.md</string>
 		</array>
 		<array>
-			<string>Fires burning.md</string>
+			<string>Wreckage burning.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>It isn’t where we are, it’s where we aren’t.md</string>
 		</array>
 		<array>
-			<string>“What do we take with us-”.md</string>
+			<string>Whatever it is, gone now.md</string>
 		</array>
 		<array>
-			<string>Walking in circles without a map or memory.md</string>
+			<string>What do we take with us.md</string>
 		</array>
 		<array>
-			<string>“It isn’t where we are, it’s where we aren’t.”.md</string>
+			<string>Walking down the old train tracks.md</string>
 		</array>
 		<array>
-			<string>Never seems to get any closer. Always over the next ridge. What will I find when I get there, if I.md</string>
+			<string>Never seems to get any closer.md</string>
+		</array>
+		<array>
+			<string>How much wreckage is out there.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -165,7 +174,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>159</integer>
+			<integer>225</integer>
 		</dict>
 	</dict>
 </dict>
