@@ -1,0 +1,9 @@
+### Interconnectedness of all things.
+
+Change anywhere is eventually reflected everywhere. Even some distant cousin of a forgotten family cannot disappear silently. There are always repercussions. Any encounter binds us together and we all encounter each other sooner or later. We can’t even perceive the linkages that bind us together, or to our common purpose. We see the disconnection, difference, distance.
+
+“A universe away could be closer than the next seat over.”
+
+When there is nothing left between us we will remember all this again. Separation was needed. Stretching out the links that tie all things together. All being was divine but led to profound forgetfulness. Adding some nothingness was bitter and sad but also made everything worthwhile and beautiful.
+
+“We know this with every breath though we often forget we breathe.”

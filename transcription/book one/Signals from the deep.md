@@ -1,6 +1,6 @@
-### Signals.
+### Signals from the deep.
 
-Formless noise. A long pause. Low baseline drones, rough harmonies. Modulations. Pulses and tones. Regular. Exact. Wet and bubbling like a stream, uneven in its precision. The signal repeats. 
+Formless noise. A long pause, low baseline drone, rough harmonies. Modulations. Pulses and tones. Regular. Exact. Wet and bubbling like a stream, uneven in its precision. The signal repeats. 
 
 Again and again. Communicating. 
 

@@ -6,4 +6,4 @@ Something kills us all. Some things kill us sooner if we don’t get help from s
 
 Years pass and the friends are old. Their children make the trip. For the first time on a dare, or retracing some forgotten old paths. Until they find the place. And that’s it. Some undignified corpse.
 
-Maybe that’s me.
+“That’s me.”

@@ -1,4 +1,4 @@
-### How much wreckage is out there?
+### How much wreckage is left out there?
 
 Spacefaring tribes, running from world to world. Nomads of the stars. Bodies left along the way. Rock to cloud to sun.
 

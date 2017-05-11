@@ -10,7 +10,7 @@ Flowing onward. Streams to rivers. Scintillating fragments. Glimmering surfaces 
 
 Glowing halos descend upon anointed heads of saints. Safe. Menacing. Rehearsing familiar scenes. Flowing cloth. A dance. Silhouettes howl, singing wordless words.
 
-`1 ... 0 ... Shutting Down ...`
+`1 ... 0 ... Shutting down ...`
 
 Pressure. Pushing, squeezing, creaking, crunching. Bone and metal driven past integrity. Viscosity indistinguishable from solidity. Cracking cleavage. Riven bergs floating in motes of vacuum. Medium rushing to fill the spaces. Complex chains, sweet and aqueous. Silken, sugary.
 
@@ -22,6 +22,6 @@ Remember ways, combinations. Sore gestures rendered alien even in familiarity. P
 
 “What just happened?"
 
-`Error: Signal Outside Expected Range`
+`Error: signal outside expected range.`
 
 "What a fucking mess.”

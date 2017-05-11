@@ -1,0 +1,17 @@
+### An unspoken promise to return. 
+
+How long was it? Stopped counting so long ago. Black hairs turned to gray. Years if there were years. Decades if there were decades. It all runs together now. A lifetime. 
+
+When he lands on the plain and comes out to meet us he too is gray and old, just like we became. Alone. Our paths diverged all those years ago. He walked a different road. We’ll never know. Still he kept the promise.
+
+“I see how he looks at us.”
+
+After so long, didn’t think there would ever be a choice. Not really. Distant hopes remained ever distant. No choice became the norm. We knew where we’d always be. Now we have to decide. Go with him into his world and leave our own?
+
+“Do we go or do we stay?”
+
+There was no choice. Of course we stayed. Where else would we go? He said yes he understood. Wilted under the weight of years. He was gone in the morning. Left a new ship behind. 
+
+Now we can go and come back as we please.
+
+“Now we truly have a choice.”

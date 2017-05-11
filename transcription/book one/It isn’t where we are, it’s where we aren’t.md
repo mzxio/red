@@ -8,5 +8,4 @@ Just on the other side of infinite nothing is infinite something. You are the al
 
 We are children of isn’t. We don’t know our boundaries but we are still bounded. Isn’t knows love and loss, knows here and now. In isn’t we find ourselves, our identities, our egos, our places. 
 
-
 “When there is nothing left, we become forever.” 

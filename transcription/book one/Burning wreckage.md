@@ -1,6 +1,6 @@
-### Wreckage burning.
+### Burning wreckage.
 
-Smoke rising. An undisturbed column in the windless sky. A timeless place. Still if not for shadows moving, tracks on the ground. Only pale hills, sun. 
+Smoke rising. An undisturbed column in the windless sky. A timeless place. Still if not for shadows moving, tracks on the ground. Only pale hills and sun. 
 
 The wreck is too hot to touch. Something in the ground made it burn. Fire ice. Looks like it could burn for a while. It could burn forever. No way to tell.
 

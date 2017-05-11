@@ -1,4 +1,6 @@
-### Beautiful, once.
+### This place was beautiful, once.
+
+An old dome. Maybe it’s so old that it fell down under its own weight. Broken. Or something broke it. Whatever’s in there, broken too. May as well go take a look. I came all this way. Don’t have anywhere else to go. 
 
 Before the dome fell there was a garden here. Must have been pleasant. Like summer back home. Airy homes with windows thrown wide, birds singing. Trees, plants, water. Music.
 

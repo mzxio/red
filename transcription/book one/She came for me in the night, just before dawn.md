@@ -1,0 +1,8 @@
+### She came for me in the night, just before dawn. 
+
+Barely stirring when the light was dim and gray. With quiet words and caresses she came, a cry in the stillness. I touched her cheek, soft and sweet. Once was not enough. Two was too many. Still children. Pantomiming love and lust. Swirling dance with no ending and only one place to go. 
+
+Breakwaters. Holding breaths in watery twilight. Salvaged sticks and stones. A forged life. Stuck together at awkward joined intersections. Nothing was as pretty as she wanted it. Nothing was as tender as her kisses, timid and sincere. Holding on, desperate for control. Nothing scavenged stays up for very long.
+
+Just at the edge of darkness.
+
