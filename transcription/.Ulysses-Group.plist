@@ -4,6 +4,8 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>the story</string>
+		<string>book two</string>
 		<string>book one</string>
 		<string>book of weeks</string>
 		<string>books</string>
@@ -16,22 +18,44 @@
 		<dict>
 			<key>book of weeks</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516211828.13404202</real>
 				<key>lastModification</key>
-				<real>515956879.707371</real>
+				<real>516211828.13404202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>15</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
 			<key>book one</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516211758.43688297</real>
 				<key>lastModification</key>
-				<real>516056912.43148297</real>
+				<real>516211758.43688297</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>18</integer>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>book two</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516211758.42830497</real>
+				<key>lastModification</key>
+				<real>516211758.42830497</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>books</key>
@@ -64,6 +88,16 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
+			<key>the story</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516211839.09802502</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>27</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
@@ -92,7 +126,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>18</integer>
+			<integer>27</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

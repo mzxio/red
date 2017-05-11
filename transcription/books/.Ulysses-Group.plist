@@ -4,9 +4,9 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>book of weeks</string>
 		<string>typed</string>
 		<string>1-284 unedited draft</string>
-		<string>Untitled</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
@@ -22,18 +22,14 @@
 					<integer>6</integer>
 				</dict>
 			</dict>
-			<key>Untitled</key>
+			<key>book of weeks</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>515021736.02800298</real>
 				<key>lastModification</key>
-				<real>515021736.02800298</real>
+				<real>516211828.13125199</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>9</integer>
+					<integer>13</integer>
 				</dict>
 			</dict>
 			<key>typed</key>
@@ -55,7 +51,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>11</integer>
+			<integer>13</integer>
 		</dict>
 	</dict>
 </dict>

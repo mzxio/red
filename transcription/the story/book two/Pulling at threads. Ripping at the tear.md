@@ -1,0 +1,7 @@
+### Pulling at threads. Ripping at the tear.
+
+No way to be graceful now. No matter how beautiful the tapestry, no matter the cost. All for ego and tribe, god and country. 
+
+“Whose uncle stole this land, and how long ago was that?”
+
+“The earth doesn’t belong to us. we belong to her. one day she calls us back.”
