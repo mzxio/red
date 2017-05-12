@@ -6,6 +6,7 @@
 	<array>
 		<string>book one</string>
 		<string>book two</string>
+		<string>book three</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
@@ -19,6 +20,16 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>book three</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516308984.435826</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>15</integer>
 				</dict>
 			</dict>
 			<key>book two</key>
@@ -93,7 +104,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>9</integer>
+			<integer>15</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

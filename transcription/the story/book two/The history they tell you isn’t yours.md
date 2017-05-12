@@ -1,6 +1,4 @@
-# 264
-
-The history they tell you isn’t yours.
+### The history they tell you isn’t yours.
 
 It’s not even their history. It’s the history that they made up to tell themselves. The way they wanted it to happen. Their excuses. Whatever doesn’t fit, discarded. Any story outside theirs, unworthy of telling unless it serves them. 
 

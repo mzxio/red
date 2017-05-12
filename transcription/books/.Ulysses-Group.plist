@@ -4,9 +4,10 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>book of weeks</string>
-		<string>typed</string>
 		<string>1-284 unedited draft</string>
+		<string>typed</string>
+		<string>book of weeks</string>
+		<string>old detective</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
@@ -15,21 +16,31 @@
 			<key>1-284 unedited draft</key>
 			<dict>
 				<key>lastModification</key>
-				<real>515021700.21520001</real>
+				<real>516309467.37305403</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>6</integer>
+					<integer>20</integer>
 				</dict>
 			</dict>
 			<key>book of weeks</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516211828.13125199</real>
+				<real>516309470.96760201</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>13</integer>
+					<integer>22</integer>
+				</dict>
+			</dict>
+			<key>old detective</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516309465.06937498</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>18</integer>
 				</dict>
 			</dict>
 			<key>typed</key>
@@ -51,7 +62,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>13</integer>
+			<integer>22</integer>
 		</dict>
 	</dict>
 </dict>

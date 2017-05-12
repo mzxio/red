@@ -1,6 +1,6 @@
 
 
-### Before the beginning there was no thing. Yet even then the story was told.
+Before the beginning there was no thing. Yet even then the story was told.
 
 Time holds many stories. This is one of them.
 

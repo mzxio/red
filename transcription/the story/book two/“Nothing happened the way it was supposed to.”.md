@@ -14,4 +14,4 @@ We all knew it, even though we claimed not to know the future. The future was al
 
 “Not that it makes it any easier.”
 
-All I could think in the moment before I died was, _this isn’t the last time_.
+All I could think in the moment before I died was _this isn’t the last time_.
