@@ -1,6 +1,4 @@
-# 15
-
-Too many voices, too many sounds. 
+### Too many voices, too many sounds. 
 
 Why won’t it ever stop? The flood, the flood, the endless flood. Why can’t I ever say what is real? All previous agreements nullified, superseded. None of what is left remains. Scattered debris and dust, scattered ashes.
 

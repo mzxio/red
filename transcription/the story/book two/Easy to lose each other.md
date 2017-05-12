@@ -1,0 +1,9 @@
+### Easy to lose each other. 
+
+We didn’t think we could, but we did. Our fragile gravity was broken. What stuck us together now drives us farther apart. Drifting into forever. Uninterrupted until we encounter some other body.
+
+Laws of gravity. Smug in their clarity, their self-assurance. By the numbers. Can numbers ever understand? What it is, what it means to be a soul adrift and tangled up with another soul? Like pieces  of wood and seaweed. Caught, dragging each other this way or that. Trapped in a current. Off-balance. 
+
+That is all the safety we ever knew. Cast together after a storm, or after a lifetime drifting. Set in motion by the rains and the flood. Just as easily untangled, broken free. 
+
+The current carries us on. 

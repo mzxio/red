@@ -1,8 +1,6 @@
-### You came for me in the night, just before dawn. 
+### You came for me in the night, just before dawn.
 
 Barely stirring when the light was dim and gray. With quiet words and caresses you came, a cry in the stillness. I touched your cheek, soft and sweet. Once was not enough. Two was too many. Still children. Pantomiming love and lust. Swirling dance with no ending and only one place to go. 
 
-Breakwaters. Holding breaths in watery twilight. Salvaged sticks and stones. A forged life. Stuck together at awkward joined intersections.  Nothing scavenged stays up for very long. Nothing was as pretty as you wanted it. Nothing was as tender as your kisses, timid and sincere. Desperate for control.
-
+Breakwaters. Holding breaths in watery twilight. Salvaged sticks and stones. A forged life. Stuck together at awkward joined intersections.  Desperate for control. Nothing stands up forever. Nothing was as pretty as you wanted it. Nothing was as tender as your kisses, timid and sincere. 
 Holding on at the edge of darkness. 
-

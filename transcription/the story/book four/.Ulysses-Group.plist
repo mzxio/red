@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>No way for memories to provide sustenance.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516318921.60253102</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>To be a cell in some beautiful creature.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516320328.12812501</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>12</integer>
+				</dict>
+			</dict>
+			<key>W.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516318956.77414298</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>W.md</string>
+		</array>
+		<array>
+			<string>No way for memories to provide sustenance.md</string>
+		</array>
+		<array>
+			<string>To be a cell in some beautiful creature.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+			<integer>12</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

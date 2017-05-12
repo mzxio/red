@@ -1,6 +1,6 @@
-### There is no way for memories to provide sustenance.
+### No way for memories to provide sustenance.
 
-Don’t feast on fruits that can never provide. You cannot eat the memory of a fruit and receive nourishment, no matter how sweet that memory is. It can only distract, never feed. Never heal.
+You cannot eat the memory of a fruit and receive nourishment, no matter how sweet that memory is. It can only distract, never feed. Never heal. Don’t feast on fruits that can never provide. 
 
 Reminiscences, recollections of people or places or times, they are the same. Nothing alive to be found there. At best it preserves a depiction of what’s been lost, giving breath to a shallow simulacra.
 

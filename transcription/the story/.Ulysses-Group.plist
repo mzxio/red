@@ -7,11 +7,22 @@
 		<string>book one</string>
 		<string>book two</string>
 		<string>book three</string>
+		<string>book four</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
 		<dict>
+			<key>book four</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516318918.20158798</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>20</integer>
+				</dict>
+			</dict>
 			<key>book one</key>
 			<dict>
 				<key>lastModification</key>
@@ -45,6 +56,16 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Before the beginning there was no thing. Even then the story was told.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516319732.347884</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>39</integer>
+				</dict>
+			</dict>
 			<key>It begins by the fire, in howling darkness.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -59,28 +80,18 @@
 					<integer>27</integer>
 				</dict>
 			</dict>
-			<key>Time holds many stories.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>516212662.04775798</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>22</integer>
-				</dict>
-			</dict>
-			<key>Untitled.md</key>
+			<key>O.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>516224514.72595799</real>
+				<real>516319668.44863498</real>
 				<key>lastModification</key>
-				<real>516224514.72595799</real>
+				<real>516319668.44863498</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>26</integer>
+					<integer>34</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -88,10 +99,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Time holds many stories.md</string>
+			<string>O.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>Before the beginning there was no thing. Even then the story was told.md</string>
 		</array>
 		<array>
 			<string>It begins by the fire, in howling darkness.md</string>
@@ -104,12 +115,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>15</integer>
+			<integer>20</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>27</integer>
+			<integer>40</integer>
 		</dict>
 	</dict>
 </dict>

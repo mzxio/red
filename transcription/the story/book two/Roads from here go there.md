@@ -1,0 +1,7 @@
+### Roads from here go there. 
+
+If i knew the right turns on the road I could find you. none of this world is truly disconnected. Rails of blood and bones. 
+
+Would you even take me if I found you? We make the disconnection. Nature makes deserts, people make wastelands. The desolation is ours. We weren’t listening when they told us. We went our own way. 
+
+Weight of yesterday, today, tomorrow. Today weighs heaviest, it’s the only place you can do anything about anything. Tomorrow weighs more than yesterday, there’s more at stake. 

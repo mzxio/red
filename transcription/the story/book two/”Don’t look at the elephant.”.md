@@ -6,4 +6,6 @@ Not looking is the only way. Do not acknowledge the elephant. To admit its exist
 
 “If it’s hiding in the corner, if it’s trying not to be seen, why make such a fuss?”
 
-“Fucking elephants. it’s not their fault. What did they ever do?
+“Walk behind the elephant.”
+
+“Fucking elephants. It’s not their fault. What did they ever do?

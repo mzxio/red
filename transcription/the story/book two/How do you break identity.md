@@ -1,13 +1,8 @@
-# 40
-
-
-How do you break identity?
-
-Ego holds on to self so tight. 
+### How do you break identity?
 
 “If I die, you die too.”
 
-Maybe that’s true, maybe not. Does the flower need an ego? Does a blade of grass or a grain of sand? All around I see many things and only a few egos. Is it truly the quintessence of identity? The unique identity assigned to a value in some vast index of all that is? 
+Ego holds on to self so tight. Maybe that’s true, maybe not. Does the flower need an ego? Does a blade of grass or a grain of sand? All around I see many things and only a few egos. Is it truly the quintessence of identity? The unique identity assigned to a value in some vast index of all that is? 
 
 Ego. 
 

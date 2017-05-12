@@ -1,6 +1,4 @@
-# 110
-
-To be a cell in some beautiful creature.
+### To be a cell in some beautiful creature.
 
 To be a molecule in a flower. To be an atom in a mote of dust. To be far away from everything else and close to the source. Not the center, for there is no center. There is us, there is all.
 

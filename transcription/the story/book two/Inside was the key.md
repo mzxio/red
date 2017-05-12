@@ -1,6 +1,4 @@
-# 156
-
-Inside was the key.
+### Inside was the key.
 
 Both versions of reality. The one that was, the one that is. What became and what could have been. 
 

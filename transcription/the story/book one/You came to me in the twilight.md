@@ -1,4 +1,4 @@
-### You came to me in the twilight before dawn.
+### You came to me in the twilight.
 
 We held each other close despite all that’s happened. 
 

@@ -1,6 +1,4 @@
-# 166
-
-What answer is anyone supposed to have? 
+### What answer is anyone supposed to have? 
 
 The ones who want something, don’t give them what they want. The ones who don’t ask, how do you know their intent? If they’re peddling answers, they want you to believe as they claim to believe.
 

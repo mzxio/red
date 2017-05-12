@@ -1,6 +1,4 @@
-# 152
-
-At the meeting of three rivers. 
+### At the meeting of three rivers. 
 
 Creaking wooden boat. Coming into harbor. Smoke and tar and salt, spices carried on the wind. Rowdy sailors down by the water.
 
