@@ -4,11 +4,12 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>the story</string>
 		<string>book two</string>
 		<string>book one</string>
 		<string>book of weeks</string>
 		<string>books</string>
+		<string>legacy</string>
+		<string>the story</string>
 		<string>red</string>
 		<string>red edit</string>
 	</array>
@@ -68,34 +69,48 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
-			<key>red</key>
+			<key>legacy</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516390078.04698402</real>
 				<key>lastModification</key>
-				<real>514176752.05564398</real>
+				<real>516390105.69639701</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>2</integer>
+					<integer>32</integer>
+				</dict>
+			</dict>
+			<key>red</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516390113.41314602</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>34</integer>
 				</dict>
 			</dict>
 			<key>red edit</key>
 			<dict>
 				<key>lastModification</key>
-				<real>514785177.66062099</real>
+				<real>516390113.41339999</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>5</integer>
+					<integer>35</integer>
 				</dict>
 			</dict>
 			<key>the story</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516211839.09802502</real>
+				<real>516390105.696392</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>27</integer>
+					<integer>32</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -130,7 +145,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>27</integer>
+			<integer>35</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

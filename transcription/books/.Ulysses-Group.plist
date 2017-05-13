@@ -25,32 +25,44 @@
 			</dict>
 			<key>book of weeks</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516390074.72591799</real>
 				<key>lastModification</key>
-				<real>516309470.96760201</real>
+				<real>516390074.72591799</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>22</integer>
+					<integer>23</integer>
 				</dict>
 			</dict>
 			<key>old detective</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516390074.730506</real>
 				<key>lastModification</key>
-				<real>516309465.06937498</real>
+				<real>516390074.730506</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>18</integer>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>typed</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516390074.73197103</real>
 				<key>lastModification</key>
-				<real>515021747.00986999</real>
+				<real>516390074.73197103</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>11</integer>
+					<integer>25</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -62,7 +74,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>22</integer>
+			<integer>25</integer>
 		</dict>
 	</dict>
 </dict>
