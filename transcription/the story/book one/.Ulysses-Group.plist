@@ -6,48 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>138.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516148025.21030402</real>
-				<key>lastModification</key>
-				<real>516148025.21030402</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>520</integer>
-				</dict>
-			</dict>
-			<key>189.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516131946.76035798</real>
-				<key>lastModification</key>
-				<real>516131946.76035798</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>278</integer>
-				</dict>
-			</dict>
-			<key>230.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516131946.75572598</real>
-				<key>lastModification</key>
-				<real>516131946.75572598</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>277</integer>
-				</dict>
-			</dict>
 			<key>Always leaving, never staying.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -96,20 +54,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>449</integer>
-				</dict>
-			</dict>
-			<key>Choices made this land.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516212408.37128401</real>
-				<key>lastModification</key>
-				<real>516212408.37128401</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>655</integer>
 				</dict>
 			</dict>
 			<key>Crash.md</key>
@@ -280,20 +224,6 @@
 					<integer>418</integer>
 				</dict>
 			</dict>
-			<key>Part Two- The Book of the Detective.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516211745.255292</real>
-				<key>lastModification</key>
-				<real>516211745.255292</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>631</integer>
-				</dict>
-			</dict>
 			<key>Playing games.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -356,34 +286,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>823</integer>
-				</dict>
-			</dict>
-			<key>Untitled - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516143588.738262</real>
-				<key>lastModification</key>
-				<real>516143588.738262</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>447</integer>
-				</dict>
-			</dict>
-			<key>Waking up in an old city.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516211749.65473801</real>
-				<key>lastModification</key>
-				<real>516211749.65473801</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>632</integer>
 				</dict>
 			</dict>
 			<key>Walking down the old train tracks.md</key>
@@ -516,21 +418,22 @@
 					<integer>408</integer>
 				</dict>
 			</dict>
+			<key>”Don’t look at the elephant.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516861225.60542297</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>835</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>230.md</string>
-		</array>
-		<array>
-			<string>189.md</string>
-		</array>
-		<array>
 			<string>I.md</string>
-		</array>
-		<array>
-			<string>Choices made this land.md</string>
 		</array>
 		<array>
 			<string>It begins by the fire, in howling darkness.md</string>
@@ -575,6 +478,9 @@
 			<string>Never thought it would go like this.md</string>
 		</array>
 		<array>
+			<string>”Don’t look at the elephant.”.md</string>
+		</array>
+		<array>
 			<string>How quickly can things change.md</string>
 		</array>
 		<array>
@@ -614,9 +520,6 @@
 			<string>Nothing is as it seems.md</string>
 		</array>
 		<array>
-			<string>138.md</string>
-		</array>
-		<array>
 			<string>You came for me in the night, just before dawn.md</string>
 		</array>
 		<array>
@@ -630,9 +533,6 @@
 		</array>
 		<array>
 			<string>An unspoken promise to return.md</string>
-		</array>
-		<array>
-			<string>Untitled - 2.md</string>
 		</array>
 		<array>
 			<string>No way for memories to provide sustenance.md</string>
@@ -655,12 +555,6 @@
 		<array>
 			<string>Whistling in the caves. Whispers in the grass.md</string>
 		</array>
-		<array>
-			<string>Part Two- The Book of the Detective.md</string>
-		</array>
-		<array>
-			<string>Waking up in an old city.md</string>
-		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -669,7 +563,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>823</integer>
+			<integer>835</integer>
 		</dict>
 	</dict>
 </dict>

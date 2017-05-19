@@ -1,6 +1,4 @@
-# 118
-
-### Dreams of friends, of enemies, of people yet to be. 
+### Dreams of friends, of enemies, of people yet to be.
 
 Scenes in forests, bedrooms, long hallways and glass buildings. The shadow of towers falls across the woods. We walk under the trees. You ask me questions. I tell you stories. I wake and I want to talk to you but there is no way. Only in dreams. 
 

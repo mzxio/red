@@ -1,6 +1,4 @@
-# 194
-
-In the old stories, we stole fire from the gods.
+### In the old stories, we stole fire from the gods.
 
 We never just made it up ourselves. Someone went to a high mountain or a deep cave. Did some trick to wrest the fire from the hands of whoever had brought it to the world. After we steal their fire, we start killing the gods. Not all at once, but slowly over the ages we kill them. One by one, their power becomes ours.
 

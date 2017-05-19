@@ -3,28 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array>
-		<string>book one/Wreckage burning.md</string>
-	</array>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict>
-			<key>book one/Wreckage burning.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516127421.75837302</real>
-				<key>lastModification</key>
-				<real>516127421.75837302</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>809</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -33,7 +16,7 @@
 		<key>order</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>1408</integer>
+			<integer>1426</integer>
 		</dict>
 	</dict>
 </dict>

@@ -69,11 +69,11 @@
 			<key>110.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516209967.13041598</real>
+				<real>516859983.47936201</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>809</integer>
+					<integer>1016</integer>
 				</dict>
 			</dict>
 			<key>112.md</key>
@@ -229,11 +229,11 @@
 			<key>15.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516225990.63789999</real>
+				<real>516859983.478899</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>913</integer>
+					<integer>1014</integer>
 				</dict>
 			</dict>
 			<key>152.md</key>
@@ -289,11 +289,11 @@
 			<key>166.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516315564.40521801</real>
+				<real>516859996.184488</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>987</integer>
+					<integer>1019</integer>
 				</dict>
 			</dict>
 			<key>169.md</key>
@@ -446,14 +446,24 @@
 					<integer>918</integer>
 				</dict>
 			</dict>
-			<key>194.md</key>
+			<key>190.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516209621.16072899</real>
+				<real>516861366.09929103</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>785</integer>
+					<integer>1024</integer>
+				</dict>
+			</dict>
+			<key>194.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516859983.47958302</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>1017</integer>
 				</dict>
 			</dict>
 			<key>2-2.md</key>
@@ -484,6 +494,16 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>991</integer>
+				</dict>
+			</dict>
+			<key>205.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516861418.83416402</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>1026</integer>
 				</dict>
 			</dict>
 			<key>206.md</key>
@@ -729,11 +749,11 @@
 			<key>282.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516322014.62205201</real>
+				<real>516859983.47824699</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>1009</integer>
+					<integer>1011</integer>
 				</dict>
 			</dict>
 			<key>284.md</key>
@@ -749,21 +769,21 @@
 			<key>29.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516320582.73949897</real>
+				<real>516859983.478477</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>995</integer>
+					<integer>1012</integer>
 				</dict>
 			</dict>
 			<key>30.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516320595.81848699</real>
+				<real>516859983.47870398</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>997</integer>
+					<integer>1013</integer>
 				</dict>
 			</dict>
 			<key>39.md</key>
@@ -798,12 +818,16 @@
 			</dict>
 			<key>48.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516860048.65127301</real>
 				<key>lastModification</key>
-				<real>516210354.73866701</real>
+				<real>516860048.65127301</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>822</integer>
+					<integer>1020</integer>
 				</dict>
 			</dict>
 			<key>5-2.md</key>
@@ -859,11 +883,11 @@
 			<key>60.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516312709.31449097</real>
+				<real>516859983.47914302</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>963</integer>
+					<integer>1015</integer>
 				</dict>
 			</dict>
 			<key>62.md</key>
@@ -1008,12 +1032,16 @@
 			</dict>
 			<key>92.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516860052.01489598</real>
 				<key>lastModification</key>
-				<real>516210077.39045203</real>
+				<real>516860052.01489598</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>820</integer>
+					<integer>1021</integer>
 				</dict>
 			</dict>
 			<key>93.md</key>
@@ -1058,12 +1086,16 @@
 			</dict>
 			<key>99.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516860056.27997702</real>
 				<key>lastModification</key>
-				<real>516210018.15043199</real>
+				<real>516860056.27997702</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>815</integer>
+					<integer>1022</integer>
 				</dict>
 			</dict>
 			<key>There’s no way to hold on to words in dreams.md</key>
@@ -1103,7 +1135,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>282.md</string>
+			<string>205.md</string>
+		</array>
+		<array>
+			<string>190.md</string>
 		</array>
 		<array>
 			<string>284.md</string>
@@ -1115,13 +1150,7 @@
 			<string>There’s no way to hold on to words in dreams.md</string>
 		</array>
 		<array>
-			<string>30.md</string>
-		</array>
-		<array>
 			<string>(diagram- cards).md</string>
-		</array>
-		<array>
-			<string>29.md</string>
 		</array>
 		<array>
 			<string>28.md</string>
@@ -1133,13 +1162,7 @@
 			<string>14.md</string>
 		</array>
 		<array>
-			<string>60.md</string>
-		</array>
-		<array>
 			<string>59.md</string>
-		</array>
-		<array>
-			<string>15.md</string>
 		</array>
 		<array>
 			<string>2-2.md</string>
@@ -1169,9 +1192,6 @@
 			<string>106.md</string>
 		</array>
 		<array>
-			<string>110.md</string>
-		</array>
-		<array>
 			<string>112.md</string>
 		</array>
 		<array>
@@ -1190,9 +1210,6 @@
 			<string>163.md</string>
 		</array>
 		<array>
-			<string>194.md</string>
-		</array>
-		<array>
 			<string>209.md</string>
 		</array>
 		<array>
@@ -1208,13 +1225,34 @@
 			<string>67.md</string>
 		</array>
 		<array>
+			<string>166.md</string>
+		</array>
+		<array>
+			<string>282.md</string>
+		</array>
+		<array>
+			<string>30.md</string>
+		</array>
+		<array>
+			<string>29.md</string>
+		</array>
+		<array>
+			<string>60.md</string>
+		</array>
+		<array>
+			<string>15.md</string>
+		</array>
+		<array>
+			<string>110.md</string>
+		</array>
+		<array>
+			<string>194.md</string>
+		</array>
+		<array>
 			<string>62.md</string>
 		</array>
 		<array>
 			<string>152.md</string>
-		</array>
-		<array>
-			<string>166.md</string>
 		</array>
 		<array>
 			<string>156.md</string>
@@ -1439,7 +1477,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>1009</integer>
+			<integer>1026</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

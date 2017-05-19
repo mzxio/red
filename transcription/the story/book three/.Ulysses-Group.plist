@@ -50,6 +50,16 @@
 					<integer>26</integer>
 				</dict>
 			</dict>
+			<key>In the old stories, we stole fire from the gods.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516861472.73299599</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>35</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -104,6 +114,9 @@
 			<string>Camping in the ruins of ancient cities.md</string>
 		</array>
 		<array>
+			<string>In the old stories, we stole fire from the gods.md</string>
+		</array>
+		<array>
 			<string>Waiting before war.md</string>
 		</array>
 		<array>
@@ -117,7 +130,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>29</integer>
+			<integer>35</integer>
 		</dict>
 	</dict>
 </dict>

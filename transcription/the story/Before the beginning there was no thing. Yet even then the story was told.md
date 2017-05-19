@@ -1,9 +1,9 @@
 
 
 ### Before the beginning there was no thing.  
-Even then the story was told.
+Yet even then the story was told.
 
-Time holds many stories. This is one.
+Time holds many stories. This is one of them.
 
 Our stories are the stories of the universe. We are all in the story. We can never be erased, but our stories may be forgotten when there is no one left to tell them. 
 

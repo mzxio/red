@@ -56,28 +56,14 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Before the beginning there was no thing. Even then the story was told.md</key>
+			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516319732.347884</real>
+				<real>516858768.64196402</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>39</integer>
-				</dict>
-			</dict>
-			<key>It begins by the fire, in howling darkness.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516224552.51214701</real>
-				<key>lastModification</key>
-				<real>516224552.51214701</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>27</integer>
+					<integer>41</integer>
 				</dict>
 			</dict>
 			<key>O.md</key>
@@ -102,10 +88,7 @@
 			<string>O.md</string>
 		</array>
 		<array>
-			<string>Before the beginning there was no thing. Even then the story was told.md</string>
-		</array>
-		<array>
-			<string>It begins by the fire, in howling darkness.md</string>
+			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -120,7 +103,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>40</integer>
+			<integer>42</integer>
 		</dict>
 	</dict>
 </dict>
