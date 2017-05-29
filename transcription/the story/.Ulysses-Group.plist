@@ -58,12 +58,16 @@
 		<dict>
 			<key>BONES OF STARS.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>517794864.493388</real>
 				<key>lastModification</key>
-				<real>517788995.18358201</real>
+				<real>517794864.493388</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>57</integer>
+					<integer>59</integer>
 				</dict>
 			</dict>
 			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
@@ -99,7 +103,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>58</integer>
+			<integer>59</integer>
 		</dict>
 	</dict>
 </dict>
