@@ -1,6 +1,8 @@
-### ”Don’t look at the elephant.”
+### Not looking is the only way.
 
-Not looking is the only way. Do not acknowledge the elephant. To admit its existence is to allow total collapse.
+“Don’t look at the elephant.”
+
+“Do not acknowledge the elephant. To admit its existence is to allow total collapse.”
 
 “It’s just a goddamn elephant. Fucking look at it, don’t look at it. What difference does it make?”
 

@@ -6,7 +6,7 @@ Even trees so firmly planted for an age know their rootless roots, give their se
 
 “Where are you?” 
 
-“Here.”
+`HERE`
 
 Even unknowing can know. Only later when the animals started asking those questions did they seem contradictory or difficult. In our ancient bones we knew all of these truths. Chaos, motion, perturbations of the void. 
 

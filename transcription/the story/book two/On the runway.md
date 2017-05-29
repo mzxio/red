@@ -1,0 +1,13 @@
+### On the runway.
+
+Sun low against the horizon. We stop, we go, we wait. Reset. Lean back.
+
+“Wait.”
+
+In line. Red and blue livery in front. White and blue taking off. They go. We’re up next. Breathe deep. Make the turn. Stink of human bodies and solvents and greasy recycled air. 
+
+“Flight attendants, prepare for takeoff.”
+
+Bass. Kick the plane into gear. Wings shudder. Rumbling on the asphalt. Quaking, veering from side to side. Pulling only a little in the breeze. Then weightless. The ground drops away. No more crude rubber on dirt. Pull up the gear. Light sweeps through the cabin, sparkling off the wings. Come out on a long lazy turn, out over the water. The city wheels behind, then under. Chasing twilight, toward the mountains and the desert. Breathe a breath.
+
+“It’s now safe to use those electronic devices.”

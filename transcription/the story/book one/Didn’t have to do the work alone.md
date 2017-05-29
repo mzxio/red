@@ -4,9 +4,6 @@ Weeks getting ready. The ones before left bots. I activated them to help me. We 
 
 The bots do the work up high. They mostly got it right. 
 
-`You're not climbing up there to fix it.` 
+`NOT LIKE YOU'RE CLIMBING UP THERE TO FIX IT` 
 
-After the dome, a new house.  Salvaged most of the old buildings. Planted seeds in the garden. How long before a harvest? Don’t remember the last thing fresh I ate. 
-
-Long time ago. Before.
-
+After the dome, a new house.  Salvaged most of the old buildings. Planted seeds in the garden. Don’t remember the last thing fresh I ate. Long time ago. Before. How long before the first harvest? 

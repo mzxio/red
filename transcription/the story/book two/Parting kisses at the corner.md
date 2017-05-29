@@ -2,7 +2,7 @@
 
 Stop and breathe in the still morning.
 
-`PARKING 2HR MAX.`
+`2HR MAX`
 
 Escape or surrender. Can’t walk here any more. Kicked out by the city. Chewed up, spat out, spat on. Kicked, punched, robbed. Institutional muggers. Paying rent, taxes, protection money.
 

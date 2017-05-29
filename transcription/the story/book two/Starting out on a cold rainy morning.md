@@ -1,8 +1,8 @@
 ### Starting out on a cold rainy morning.
 
-When all the miles are ahead and there’s dull ache of sleeplessness combined with the rush of anticipation. Long way left to go.
+Rush of anticipation. All the miles lie ahead. Dull ache of sleeplessness. Long way left to go.
 
-What they won’t tell you is this is your only chance. On the empty early morning streets, none of them know. at the gas station, they won’t know. At the restaurant, maybe they know but they won’t tell you. So you’ll drive on through the day, through the rain and into the sun, from the depth of the city to the desolate nowhere.
+What they won’t tell you is this is your only chance. On the empty early morning streets, none of them know. At the gas station, they won’t know. At the restaurant, maybe they know but they won’t tell you. So you’ll drive on through the day, through the rain and into the sun, from the depth of the city to the desolate nowhere.
 
 You’ll ride together as long as you know how, but as soon as you forget it’ll all fall apart. Just not right now. Not this chilly morning. Not while walking down these hills looking for the car. Not while this hunger still craves something more. Not while there’s still so far to go. 
 

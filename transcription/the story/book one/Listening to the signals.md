@@ -1,10 +1,10 @@
 ### Listening to the signals.
 
-Momentary obsessions. Not everything comes all at once. Sometimes old ones arrive first or repeat more than once. Some strong signals come for a moment only, then withered and faded. The ones that come again and again get picked up eventually.
+Not everything comes all at once. Sometimes old ones arrive first or repeat more than once. Some strong signals come for a moment only, then withered and faded. Momentary obsessions. The ones that come again and again get picked up eventually.
 
 What order do they go in? Later transmissions don’t always supersede earlier ones. Do you know when they were originally sent? Low long were they in transit, and from where?
 
-`I don't know. I’m just the receiver.`
+`NOT LIKE I KNOW, I'M JUST THE RECEIVER`
 
 The messages come and go. Whatever you get from me won’t be as clear and precise as what I got from the deep. I hear a signal, I try to write it down. I know my transcription is faulty. Easy to get distracted. 
 

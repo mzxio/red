@@ -6,20 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>59.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516321558.38006598</real>
-				<key>lastModification</key>
-				<real>516321558.38006598</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>29</integer>
-				</dict>
-			</dict>
 			<key>At the meeting of three rivers.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -28,16 +14,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>11</integer>
-				</dict>
-			</dict>
-			<key>Camping in the ruins of ancient cities.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>516318056.42923802</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>21</integer>
 				</dict>
 			</dict>
 			<key>Faults in forever.md</key>
@@ -50,14 +26,88 @@
 					<integer>26</integer>
 				</dict>
 			</dict>
-			<key>In the old stories, we stole fire from the gods.md</key>
+			<key>For more than twenty generations our last confederation stood.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516861472.73299599</real>
+				<real>517782193.13475299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>35</integer>
+					<integer>108</integer>
+				</dict>
+			</dict>
+			<key>In the old stories, we stole fire from the gods.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517782130.31133997</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>104</integer>
+				</dict>
+			</dict>
+			<key>Music from the deep.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517779660.66318703</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>70</integer>
+				</dict>
+			</dict>
+			<key>Only a monument remained to the way things were before.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517779593.49224401</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>62</integer>
+				</dict>
+			</dict>
+			<key>Roads from here go there.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>517781425.373945</real>
+				<key>lastModification</key>
+				<real>517781425.373945</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>87</integer>
+				</dict>
+			</dict>
+			<key>The history they tell you isn’t yours.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517782167.39816701</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>106</integer>
+				</dict>
+			</dict>
+			<key>The place of trials.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517782036.12994498</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>100</integer>
+				</dict>
+			</dict>
+			<key>They killed us all.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517779559.54113799</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>52</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -65,13 +115,13 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>516309147.19505501</real>
+				<real>517782121.60826802</real>
 				<key>lastModification</key>
-				<real>516309147.19505501</real>
+				<real>517782121.60826802</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>7</integer>
+					<integer>102</integer>
 				</dict>
 			</dict>
 			<key>Waiting before war.md</key>
@@ -84,6 +134,26 @@
 					<integer>19</integer>
 				</dict>
 			</dict>
+			<key>Walk with care.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517781956.92519498</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>97</integer>
+				</dict>
+			</dict>
+			<key>You came to me in the tall grass in the deep forest, just after dawn.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517779650.73907202</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>66</integer>
+				</dict>
+			</dict>
 			<key>Z.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -94,12 +164,22 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>“Don’t believe them. They won’t tell you the truth.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517781433.73857301</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>91</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>59.md</string>
+			<string>Roads from here go there.md</string>
 		</array>
 		<array>
 			<string>Z.md</string>
@@ -111,16 +191,40 @@
 			<string>At the meeting of three rivers.md</string>
 		</array>
 		<array>
-			<string>Camping in the ruins of ancient cities.md</string>
+			<string>In the old stories, we stole fire from the gods.md</string>
 		</array>
 		<array>
-			<string>In the old stories, we stole fire from the gods.md</string>
+			<string>The place of trials.md</string>
+		</array>
+		<array>
+			<string>For more than twenty generations our last confederation stood.md</string>
+		</array>
+		<array>
+			<string>The history they tell you isn’t yours.md</string>
+		</array>
+		<array>
+			<string>“Don’t believe them. They won’t tell you the truth.”.md</string>
+		</array>
+		<array>
+			<string>Walk with care.md</string>
 		</array>
 		<array>
 			<string>Waiting before war.md</string>
 		</array>
 		<array>
+			<string>They killed us all.md</string>
+		</array>
+		<array>
 			<string>Faults in forever.md</string>
+		</array>
+		<array>
+			<string>Only a monument remained to the way things were before.md</string>
+		</array>
+		<array>
+			<string>You came to me in the tall grass in the deep forest, just after dawn.md</string>
+		</array>
+		<array>
+			<string>Music from the deep.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -130,7 +234,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>35</integer>
+			<integer>108</integer>
 		</dict>
 	</dict>
 </dict>

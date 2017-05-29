@@ -2,7 +2,7 @@
 
 Filling empty spaces with unfulfilling things, then chasing even more. 
 
-Consuming.
+“Consuming...”
 
 Stand away. Evaluate value and risk, cause and effect. Leave with only the consequences. Nothing to do but consume less. Be patient. Wait, think, then act. 
 

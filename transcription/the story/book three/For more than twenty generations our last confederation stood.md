@@ -1,0 +1,7 @@
+### For more than twenty generations our last confederation stood.
+
+Since time before time, only in the oldest legends were we from anywhere but here. Lands we’d walked and lived for millennia, ever since we first got here. Where was here? We forgot. Here was everywhere.
+
+Their stories don’t tell about us, just how we were easy to control, easy to dominate. Their stories are the stories of how they defeated us, killed us, locked us up and made us leave. They made sure to implicate us in our own destruction. If only we’d just made it easy for them and just died when they came. That would have been so much better for them. That’s what they want you to know. They were the strong ones. The weak should accept their place and disappear.
+
+Except we were never weak. Theirs was the strength of arms, of numbers. They overwhelmed us. Our old lands changed utterly. Soon there will be almost no trace of us. They have washed away all but a few of our stories. They replaced us with other people who could do their labors, only to abandon them when the labor was no longer required. So it goes with these people. Always taking. Always destroying. 
