@@ -1,6 +1,4 @@
-# 257
-
-In the old city they measured us by how much money we’d give them.
+### They measured us by how much money we’d give them.
 
 Lifetime value, that’s what they called it. That was our worth to them. Our usefulness, their savvy. Anything to increase their earnings through new products and services, capture and retention. If we were high value we were worth supporting, worth listening to.
 

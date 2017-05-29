@@ -1,6 +1,6 @@
-### Lining up for one last chance. 
+### Lining up for one last chance.
 
-Waiting ten, fifty, a hundred deep. Until someone said there was nothing more and no amount of cursing or threats would change it.
+Waiting ten, fifty, a hundred deep. Until someone said there was nothing more and no amount of cursing and threatening could change it.
 
 “Where next?”
 

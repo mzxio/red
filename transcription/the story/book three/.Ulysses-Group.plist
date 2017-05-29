@@ -26,14 +26,14 @@
 					<integer>26</integer>
 				</dict>
 			</dict>
-			<key>For more than twenty generations our last confederation stood.md</key>
+			<key>For uncounted generations our last confederation stood.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517782193.13475299</real>
+				<real>517792864.46773303</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>108</integer>
+					<integer>128</integer>
 				</dict>
 			</dict>
 			<key>In the old stories, we stole fire from the gods.md</key>
@@ -93,21 +93,31 @@
 			<key>The place of trials.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517782036.12994498</real>
+				<real>517792889.45721102</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>100</integer>
+					<integer>131</integer>
 				</dict>
 			</dict>
 			<key>They killed us all.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517779559.54113799</real>
+				<real>517792800.46919501</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>52</integer>
+					<integer>127</integer>
+				</dict>
+			</dict>
+			<key>Too many to name. Too many forgotten, or best forgotten.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517793036.44521499</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>134</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -146,12 +156,16 @@
 			</dict>
 			<key>You came to me in the tall grass in the deep forest, just after dawn.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>517789260.26680303</real>
 				<key>lastModification</key>
-				<real>517779650.73907202</real>
+				<real>517789260.26680303</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>66</integer>
+					<integer>109</integer>
 				</dict>
 			</dict>
 			<key>Z.md</key>
@@ -167,11 +181,11 @@
 			<key>“Don’t believe them. They won’t tell you the truth.”.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517781433.73857301</real>
+				<real>517792774.48470801</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>91</integer>
+					<integer>123</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -194,25 +208,28 @@
 			<string>In the old stories, we stole fire from the gods.md</string>
 		</array>
 		<array>
-			<string>The place of trials.md</string>
-		</array>
-		<array>
-			<string>For more than twenty generations our last confederation stood.md</string>
-		</array>
-		<array>
-			<string>The history they tell you isn’t yours.md</string>
+			<string>For uncounted generations our last confederation stood.md</string>
 		</array>
 		<array>
 			<string>“Don’t believe them. They won’t tell you the truth.”.md</string>
 		</array>
 		<array>
+			<string>Too many to name. Too many forgotten, or best forgotten.md</string>
+		</array>
+		<array>
+			<string>The history they tell you isn’t yours.md</string>
+		</array>
+		<array>
 			<string>Walk with care.md</string>
 		</array>
 		<array>
-			<string>Waiting before war.md</string>
+			<string>They killed us all.md</string>
 		</array>
 		<array>
-			<string>They killed us all.md</string>
+			<string>The place of trials.md</string>
+		</array>
+		<array>
+			<string>Waiting before war.md</string>
 		</array>
 		<array>
 			<string>Faults in forever.md</string>
@@ -234,7 +251,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>108</integer>
+			<integer>135</integer>
 		</dict>
 	</dict>
 </dict>

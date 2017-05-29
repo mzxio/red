@@ -1,6 +1,4 @@
-# 243
-
-Old people hanging out at an old store. 
+### Old people hanging out at an old store. 
 
 They’ve been there forever. The people, the store. Time seems to sink and slow. Darker, quieter, cooler. 
 

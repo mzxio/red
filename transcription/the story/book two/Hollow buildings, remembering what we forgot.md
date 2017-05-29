@@ -1,8 +1,6 @@
-# 252
+### Hollow buildings, remembering  what we forgot.
 
-Hollow buildings, remembering  what we forgot.
-
-The old city as it was. Bricks are harder than we are. They stand longer than us. We walk back and forth in front of the doors, pausing at the stoop to adjust, light up, make a call. From the stoop’s view you have to stop for a long time for it to see you as anything but a blur, to make more sound than the ever-flowing rhythm of footsteps on the sidewalks.
+Bricks are harder than we are. They stand longer than us. We walk back and forth in front of the doors, pausing at the stoop to adjust, light up, make a call. From the stoop’s view you have to stop for a long time for it to see you as anything but a blur, to make more sound than the ever-flowing rhythm of footsteps on the sidewalks.
 
 The hood kids know, they sit on the stoops for years. The brick and concrete would love, if they could love, anyone who sits with them thus. They soften and smooth with touch, their own kind of love. Harmony of living and not living, between people and their shelters. Familiarity with the old stones. They remember. Not so strange, the warmth and gentleness of home. 
 

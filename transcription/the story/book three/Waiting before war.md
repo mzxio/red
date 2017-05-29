@@ -8,7 +8,7 @@ None of that happens now though. Now is the waiting. Now we have to be alright w
 
 “When will the first stroke fall? How long do we have to wait?”
 
-“No one knows. “
+“No one knows.”
 
 “Could we wait them out? Could they just leave?”
 

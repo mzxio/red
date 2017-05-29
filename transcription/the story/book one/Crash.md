@@ -1,16 +1,16 @@
 ### Crash.
 
-Enclosed in smoking ruin. Filtered bloodstained flash. Blast of compression. Essentials in all the wrong combinations. Carbon, hydrogen, oxygen, iron. Heat. Noise. Electroluminescence. Shape to symbol, conceptualization.
+Enclosed in smoking ruin. Filtered bloodstained flash. Blast of compression. Essentials in all the wrong combinations. Carbon, hydrogen, oxygen, iron. Heat. Noise. Blinking electroluminescence. Shape to symbol, to conceptualization. A warning.
 
-Blinking a warning.
-
-`4 ... 3 ... 2 ...`
+`4% ... 3% ... `
 
 Flowing onward. Streams to rivers. Scintillating fragments. Glimmering surfaces reflected. Mesmerized. Falling headfirst into warm deep water. Breathe, breathless. Airless void. Infinite embracing.
 
+`2% ... 1% ... `
+
 Glowing halos descend upon anointed heads of saints. Safe. Menacing. Rehearsing familiar scenes. Flowing cloth. A dance. Silhouettes howl, singing wordless words.
 
-`1 ... 0 ... Shutting down ...`
+`0% ... SHUTTING DOWN`
 
 Pressure. Pushing, squeezing, creaking, crunching. Bone and metal driven past integrity. Viscosity indistinguishable from solidity. Cracking cleavage. Riven bergs floating in motes of vacuum. Medium rushing to fill the spaces. Complex chains, sweet and aqueous. Silken, sugary.
 

@@ -10,7 +10,6 @@ Always over the next ridge. Never seems to come any closer. Maybe after walking 
 
 What will I find if I get there? Will there be anything? 
 
-`You have arrived.`
+`YOU HAVE ARRIVED`
 
 Arrived, yes. Where?
-

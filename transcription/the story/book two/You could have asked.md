@@ -6,6 +6,4 @@ Doesn’t matter if everything and everyone tells you something different. Once 
 
 How can it be best when this is where it  got us? You obviously missed something important. What was it? 
 
-“I don’t even know any more.”
-
-“You could have asked.” 
+“I don’t know any more. You could have asked.” 

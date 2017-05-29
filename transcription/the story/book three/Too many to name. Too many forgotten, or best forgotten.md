@@ -1,8 +1,6 @@
-# 247
+### Too many to name. Too many forgotten, or best forgotten.
 
-This place used to be a sea.
-
-Dry before that, like it is now. It will be a sea again before long, maybe generations of us. Walk the plains while you can. Flat and smooth, worn down by floods and the grinding of the sea that was. Little cuts of young rivers, running between the ancient hills. 
+This place used to be a sea. Dry before that, like it is now. It will be a sea again before long, maybe generations of us. Walk the plains while you can. Flat and smooth, worn down by floods and the grinding of the sea that was. Little cuts of young rivers, running between the ancient hills. 
 
 Some farm this land now. Good for cultivation. All those countless ages of sea life, dying and falling. Corpses collected, compressed, buried. Now we till the ground, churn up their bodies. They break down even more. Almost unrecognizable now.
 

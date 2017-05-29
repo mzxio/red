@@ -56,6 +56,16 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>BONES OF STARS.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517788995.18358201</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>57</integer>
+				</dict>
+			</dict>
 			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -66,26 +76,12 @@
 					<integer>41</integer>
 				</dict>
 			</dict>
-			<key>O.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516319668.44863498</real>
-				<key>lastModification</key>
-				<real>516319668.44863498</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>34</integer>
-				</dict>
-			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>O.md</string>
+			<string>BONES OF STARS.md</string>
 		</array>
 		<array>
 			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
@@ -103,7 +99,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>42</integer>
+			<integer>58</integer>
 		</dict>
 	</dict>
 </dict>
