@@ -10,4 +10,4 @@ Illusory direction. Luminance drawn out, radiating pure energy. A blast of light
 
 The other side.
 
-`Jumped.`
+`JUMPED`

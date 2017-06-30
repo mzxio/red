@@ -6,5 +6,4 @@ Waking dreams. Plains, mountains, valleys, canyons, rivers, cities. A palace, a 
 
 "There’s always still hope, so — I love you."
 
-`Message undeliverable. Signal lost.`
-
+`MESSAGE UNDELIVERABLE: SIGNAL LOST`

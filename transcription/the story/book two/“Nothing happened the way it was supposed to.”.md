@@ -1,14 +1,12 @@
-### “Nothing happened the way it was supposed to.” 
-
-The snow came down. Slow at first, thicker and heavier, then blowing whiteout. Rushing like star trails in the lights at night.
+### “Nothing happened the way it was supposed to.”
 
 Only one of us made it out alive. 
 
-He was right, nothing went according to plan. All our ideas, fantasies, careful preparation. All wrong. All unprepared. Reality has a coarse shape. Not smooth, not to be tamed by some mortal being’s plans.
+The snow came down. Slow at first, thicker and heavier, then blowing whiteout. Rushing like star trails in the lights at night.
 
-It felt right when it all went wrong.
+Reality has a coarse shape. Not smooth, not to be tamed by some mortal being’s plans. He was right, nothing went according to plan. All our ideas, fantasies, careful preparation. All wrong. All unprepared. 
 
-Like that’s what was coming the entire time.
+It felt right when it all went wrong. Like that’s what was coming the entire time.
 
 We all knew it, even though we claimed not to know the future. The future was always there. The shape of things to come is always written in the shapes of what is. 
 

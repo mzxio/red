@@ -12,4 +12,3 @@ The pod still has power. I can stay and die as myself or leave a corpse in the p
 
 I decided to stay.
 
-

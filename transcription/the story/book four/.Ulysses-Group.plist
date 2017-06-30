@@ -40,6 +40,16 @@
 					<integer>20</integer>
 				</dict>
 			</dict>
+			<key>Music from the deep.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517796662.79075599</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>47</integer>
+				</dict>
+			</dict>
 			<key>No way for memories to provide sustenance.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -53,11 +63,11 @@
 			<key>Old people hanging out at an old store.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517792688.646106</real>
+				<real>517796678.51210302</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>43</integer>
+					<integer>51</integer>
 				</dict>
 			</dict>
 			<key>To be a cell in some beautiful creature.md</key>
@@ -68,16 +78,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>12</integer>
-				</dict>
-			</dict>
-			<key>W.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>516318956.77414298</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>7</integer>
 				</dict>
 			</dict>
 			<key>Where do we go when we can’t find the way.md</key>
@@ -100,6 +100,16 @@
 					<integer>45</integer>
 				</dict>
 			</dict>
+			<key>Σ.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517796869.11218899</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>54</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -108,16 +118,19 @@
 			<string>31.md</string>
 		</array>
 		<array>
-			<string>W.md</string>
+			<string>Σ.md</string>
 		</array>
 		<array>
-			<string>Old people hanging out at an old store.md</string>
+			<string>Music from the deep.md</string>
 		</array>
 		<array>
 			<string>Where do we go when we can’t find the way.md</string>
 		</array>
 		<array>
 			<string>Little by little, time takes it all.md</string>
+		</array>
+		<array>
+			<string>Old people hanging out at an old store.md</string>
 		</array>
 		<array>
 			<string>How much was real.md</string>
@@ -139,7 +152,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>45</integer>
+			<integer>55</integer>
 		</dict>
 	</dict>
 </dict>

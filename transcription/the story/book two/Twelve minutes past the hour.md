@@ -1,6 +1,6 @@
 ### Twelve minutes past the hour.
 
-Air swollen and thick with dust and fire. The hour of destruction, of re-creation. The new world begins here, now. Day zero, year zero, hour one. 
+Air swollen and thick with dust and fire. The hour of destruction, of re-creation. The new world begins here, now. Day zero, year zero, hour zero. 
 
 Fires burning, ash falling. The old world fading away, shredding itself into nothing but soot and debris. Screams and sirens rise like a tide of swelling misery. Groaning like the damned in their first moments in hell. Crying like babies taking their first breath. The end of all things, the beginning of all things.
 

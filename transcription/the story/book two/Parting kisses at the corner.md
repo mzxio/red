@@ -4,6 +4,6 @@ Stop and breathe in the still morning.
 
 `2HR MAX`
 
-Escape or surrender. Can’t walk here any more. Kicked out by the city. Chewed up, spat out, spat on. Kicked, punched, robbed. Institutional muggers. Paying rent, taxes, protection money.
+Escape or surrender. Can’t walk here any more. Kicked out. Paying rent, taxes, protection money. Kicked, punched, robbed. Institutional muggers.  Chewed up, spat on, spat out. 
 
 “We don’t have to think like that any more.”

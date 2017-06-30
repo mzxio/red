@@ -1,11 +1,11 @@
-### At the meeting of three rivers. 
+### At the meeting of three rivers.
 
 Creaking wooden boat. Coming into harbor. Smoke and tar and salt, spices carried on the wind. Rowdy sailors down by the water.
 
-Stepping off to stone, sturdy land. Walking terraced steps. Eating some kind of warm sweet food I’ve never had, sold off a cart by a girl from somewhere I’d never heard of. A thousand voices speaking five hundred tongues, arguing and laughing and dealing, bustling in the marketplace. 
+Stepping off to stone, sturdy land. Walking terraced steps. Eating some kind of warm sweet food I’ve never had, sold off a cart by a girl from somewhere I’d never been. A thousand voices speaking five hundred tongues, arguing and laughing and dealing, bustling in the marketplace. 
 
 All strangers, coming together here to meet the other strangers. For the waters of the rivers, for the trade, for the food, for absolution. Dragged onward by a desire for something forever out of reach.
 
 “Why did I come here? Looking for something. I’ll know it when I see it.”
 
-Climbing the long stairs all the way from the docks to the top of the holy hill. Temples of the city’s patron saints. The three river mothers. I went to the temple on the hill. There I met a priest of the oldest order. He told me where I might go next.
+Climbing the long stairs all the way from the docks to the top of the holy hill. Temples of the city’s patron saints. The three river mothers. I went to the temple on the hill. There I met a priest of the oldest order. He told me where I might go.

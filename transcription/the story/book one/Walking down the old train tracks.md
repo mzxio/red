@@ -10,6 +10,4 @@ There’s a man and his dog I see sometimes. Set up high with a chair. Watching 
 
 I tell him I didn’t want to upset him or the dog. He shakes his head. Comes down, takes my hand, leads me through.
 
-His hand was dry, dirty. On my hand there’s dirt and grease now. Stains where he touched my shoulder. I smell the grease and sweat. Marks of hard work and friendship.
-
-A precious gift in that fading light.
+His hand was dry, dirty. On my hand there’s dirt and grease now. Stains where he touched my shoulder. I smell the grease and sweat. Marks of hard work and friendship. Precious gifts in fading light.

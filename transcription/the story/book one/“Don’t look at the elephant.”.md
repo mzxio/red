@@ -1,6 +1,6 @@
-### Not looking is the only way.
+### “Don’t look at the elephant.”
 
-“Don’t look at the elephant.”
+“Not looking is the only way.”
 
 “Do not acknowledge the elephant. To admit its existence is to allow total collapse.”
 

@@ -4,7 +4,7 @@ Doesn’t matter how similar we are, we come to a place where we don’t share m
 
 “Do you see it? I see it.”
 
-Lost meaning. Arguing. You see what you see. I see what I see. Do we cross the bridge together or go to different places? If we have such different meanings, did we ever want to really talk at all?
+Lost meaning. Arguing. You see what you see. I see what I see. Do we cross the bridge together or go to different places? If we have such different meanings, did we ever really want to talk at all?
 
 “I’ll just leave.”
 

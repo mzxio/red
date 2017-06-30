@@ -86,6 +86,16 @@
 					<integer>728</integer>
 				</dict>
 			</dict>
+			<key>Ego holds on to self so tight.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>520314443.84662902</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>872</integer>
+				</dict>
+			</dict>
 			<key>Going into an empty place to live alone forever.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -94,16 +104,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>725</integer>
-				</dict>
-			</dict>
-			<key>How do you break identity.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517793301.44380701</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>859</integer>
 				</dict>
 			</dict>
 			<key>How much wreckage is left out there.md</key>
@@ -196,16 +196,6 @@
 					<integer>792</integer>
 				</dict>
 			</dict>
-			<key>Not looking is the only way.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>517782244.91266298</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>842</integer>
-				</dict>
-			</dict>
 			<key>Nothing is as it seems.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -219,11 +209,11 @@
 			<key>Nowhere. Now here.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516143268.306674</real>
+				<real>520309378.650056</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>418</integer>
+					<integer>862</integer>
 				</dict>
 			</dict>
 			<key>Playing games.md</key>
@@ -276,14 +266,28 @@
 					<integer>455</integer>
 				</dict>
 			</dict>
-			<key>Walking down the old train tracks.md</key>
+			<key>Untitled.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>520314380.59920299</real>
 				<key>lastModification</key>
-				<real>516134431.05585098</real>
+				<real>520314380.59920299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>329</integer>
+					<integer>871</integer>
+				</dict>
+			</dict>
+			<key>Walking down the old train tracks.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>520314361.96245098</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>866</integer>
 				</dict>
 			</dict>
 			<key>What qualifies as reality.md</key>
@@ -376,6 +380,16 @@
 					<integer>801</integer>
 				</dict>
 			</dict>
+			<key>“Don’t look at the elephant.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>520314821.462668</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>876</integer>
+				</dict>
+			</dict>
 			<key>“Jump.”.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -452,9 +466,10 @@
 		</array>
 		<array>
 			<string>Walking down the old train tracks.md</string>
+			<string>Untitled.md</string>
 		</array>
 		<array>
-			<string>How do you break identity.md</string>
+			<string>Ego holds on to self so tight.md</string>
 		</array>
 		<array>
 			<string>The choice will make itself soon.md</string>
@@ -469,7 +484,7 @@
 			<string>Never thought it would go like this.md</string>
 		</array>
 		<array>
-			<string>Not looking is the only way.md</string>
+			<string>“Don’t look at the elephant.”.md</string>
 		</array>
 		<array>
 			<string>How quickly can things change.md</string>
@@ -551,7 +566,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>859</integer>
+			<integer>877</integer>
 		</dict>
 	</dict>
 </dict>

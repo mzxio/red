@@ -12,7 +12,7 @@ Do the calculations. Reference, coordination, projection.
 
 `CHARGING 98%`
 
-You’ve known for a while this was where you were headed. Waiting in anticipation. Death rushing up to meet you. All the hope and fear from prior epochs, all focused ahead. Nothing to do but wait and check your calculations.
+You’ve known for a while this was where you were headed. Waiting in anticipation. Death rushing up to meet you. All the hope and fear from prior epochs, all focused ahead. Nothing to do but wait and check the numbers.
 
 `CHARGING 99%`
 
