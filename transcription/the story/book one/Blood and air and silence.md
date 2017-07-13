@@ -4,6 +4,6 @@ Remember ways, combinations. Sore gestures rendered alien even in familiarity. P
 
 “What just happened?"
 
-`ERROR: SIGNAL OUTSIDE RANGE`
+`Error: Signal Outside Range`
 
 "What a fucking mess.”

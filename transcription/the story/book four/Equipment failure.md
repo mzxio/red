@@ -1,5 +1,3 @@
-# 96
-
 ### Equipment failure.
   
 Slow degradation of time. All things physical that live eventually die. Disconnected.

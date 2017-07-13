@@ -1,6 +1,10 @@
-### How much was real? 
+### How much was real?
 
-What was set in motion at the beginning goes on with or without us. Is that true? How can it be?  The moment I said it wasn’t real I wanted to reach out and gather up the words, to unsay them all. It can’t go on without us.
+“What was set in motion at the beginning goes on with or without us.”
+
+“Is that true? How can it be?”
+
+The moment I said it wasn’t real I wanted to reach out and gather up the words, to unsay them all. It can’t go on without us.
 
 “Too late.”
 

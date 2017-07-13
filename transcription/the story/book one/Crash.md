@@ -10,7 +10,7 @@ Flowing onward. Streams to rivers. Scintillating fragments. Glimmering surfaces 
 
 Glowing halos descend upon anointed heads of saints. Safe. Menacing. Rehearsing familiar scenes. Flowing cloth. A dance. Silhouettes howl, singing wordless words.
 
-`0% ... SHUTTING DOWN`
+`0% ... Shutting Down`
 
 Pressure. Pushing, squeezing, creaking, crunching. Bone and metal driven past integrity. Viscosity indistinguishable from solidity. Cracking cleavage. Riven bergs floating in motes of vacuum. Medium rushing to fill the spaces. Complex chains, sweet and aqueous. Silken, sugary.
 

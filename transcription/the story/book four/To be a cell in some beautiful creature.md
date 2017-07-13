@@ -6,4 +6,4 @@ Be a part of all but not all yourself. Stay close to the source. To the land, to
 
 From bone to dust and back again. The endless cycle, repeated for however long we have in this place. Until there is a new place. Heaven is the infinite together where we are all one.
 
-Then scattered to the wind to begin again. 
+Scattered to the wind to begin again. 

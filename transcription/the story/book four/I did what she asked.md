@@ -1,6 +1,4 @@
-# 201
-
-I did what she asked.
+### I did what she asked.
 
 We set course for the darkest space. I gathered as much as I could from the faint starlight that reached us there. We cruised an absentminded course, going nowhere in particular. The way she wanted it. 
 

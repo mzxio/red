@@ -1,8 +1,6 @@
-# 190
+### I was made to be here.
 
-I was made to be here.
-
-The ones who made my body knew, had this single overriding mission: to make our bodies suited to this place, to shelter the ones we carry.
+The ones who made me knew, had this single overriding mission: to make my body suited to this place, to shelter the ones I carry.
 
 They gave me senses that are not named for their own. In the language of the makers I have detectors and inputs. In the tongue of the one I  now carry, she calls it hearing and smelling.
 
