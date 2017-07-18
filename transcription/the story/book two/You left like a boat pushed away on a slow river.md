@@ -4,4 +4,4 @@ Receding slowly and then vanishing, swallowed up, out of sight.
 
 The sun shines over the valley. The wind rustles the leaves. Some days the valley flooded. Waters rising higher and higher and then never receding. The valley became a lake. The village, if there ever was one, swallowed up out of sight beneath the waves. Sparkling scintillating shafts of light in the green water. Echoes off the cliffs. Whisper of leaves like rain pattering on roofs.
 
-Dull squeaking and splashing of the pump, drawing water from some deep place. The reservoir, cold and deep and still, growing slowly over centuries. 
+Squeaking and splashing of the pump, drawing water from some deep place. The reservoir, cold and deep and still, growing slowly over centuries. 

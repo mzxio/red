@@ -1,6 +1,6 @@
 ### Starting out on a cold rainy morning.
 
-Rush of anticipation. All the miles lie ahead. Dull ache of sleeplessness. Long way left to go.
+All the miles lie ahead. Rush of anticipation. Ache of sleeplessness. Long way left to go.
 
 What they won’t tell you is this is your only chance. On the empty early morning streets, none of them know. At the gas station, they won’t know. At the restaurant, maybe they know but they won’t tell you. 
 
@@ -12,3 +12,4 @@ Just not right now.
 
 Not this chilly morning. Not while walking down these hills looking for the car. Not while this hunger still craves something more. Not while there’s still so far to go. 
 
+“Road’s long from here.”

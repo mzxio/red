@@ -2,7 +2,7 @@
 
 You cannot eat the memory of a fruit and receive nourishment, no matter how sweet that memory is. Don’t feast on fruits that can never provide. They can only distract. Never feed, never heal. 
 
-Reminiscences, recollections of people or places or times, they are the same. Nothing alive to be found there. At best it preserves a depiction of what’s been lost, giving breath to a shallow simulacra.
+Reminiscences, recollections of people or places or times, they are the same. Nothing alive to be found there. At best it preserves a depiction of what’s been lost, giving breath to shallow simulacra.
 
 If all you can do is remember others, you don’t have access to their true selves. All you accomplish is holding on to who you perceived when you knew them. Important pieces will be missing, always.
 

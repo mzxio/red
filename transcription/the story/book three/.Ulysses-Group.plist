@@ -56,6 +56,16 @@
 					<integer>157</integer>
 				</dict>
 			</dict>
+			<key>Music from the deep.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522045129.33636898</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>160</integer>
+				</dict>
+			</dict>
 			<key>Only a monument remained to the way things were before.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -192,6 +202,9 @@
 		<array>
 			<string>Faults in forever.md</string>
 		</array>
+		<array>
+			<string>Music from the deep.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -200,7 +213,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>158</integer>
+			<integer>160</integer>
 		</dict>
 	</dict>
 </dict>

@@ -2,13 +2,13 @@
 
 When they take what’s yours and leave, do they ever return? Do you ever get a chance to reclaim what they stole? They write laws to keep you from having what they have. Then they mock you for not being them. In this way they can reinforce their superiority. 
 
-“We’re going to take this from you.” 
+“We’re taking this.” 
 
 “Why?”
 
-“You sucker.” 
+“You sucker.”
 
-They’re very good at making us think that we want what they have. But when we follow them and get too close, they change the rules again. They don’t like us close. They want us far away where they can’t see us. Where they can make up their own stories about us. 
+They’re skilled at making us think that we want what they have. But when we follow them and get too close, they change the rules again. They don’t like us close. They want us far away where they can’t see us. Where they can make up their own stories about us. 
 
 Look. Look everywhere around you today. Look to history. They are clever. This is what they’ve always done. Maybe it seems like they are winning, but they have always been few and we are many. 
 
