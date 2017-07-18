@@ -56,28 +56,32 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>BONES OF STARS.md</key>
+			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>517794864.493388</real>
+				<real>522089776.17431599</real>
 				<key>lastModification</key>
-				<real>517794864.493388</real>
+				<real>522089776.17431599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>59</integer>
+					<integer>60</integer>
 				</dict>
 			</dict>
-			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
+			<key>There will be loss.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522102189.88237101</real>
 				<key>lastModification</key>
-				<real>516858768.64196402</real>
+				<real>522102189.88237101</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>41</integer>
+					<integer>63</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -85,10 +89,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>BONES OF STARS.md</string>
+			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
 		</array>
 		<array>
-			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
+			<string>There will be loss.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -103,7 +107,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>59</integer>
+			<integer>63</integer>
 		</dict>
 	</dict>
 </dict>

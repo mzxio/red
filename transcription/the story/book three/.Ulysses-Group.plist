@@ -6,6 +6,40 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>143.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522103304.39973098</real>
+				<key>lastModification</key>
+				<real>522103304.39973098</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>311</integer>
+				</dict>
+			</dict>
+			<key>After the massacre the bodies don’t even look like people anymore.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093434.61858302</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>210</integer>
+				</dict>
+			</dict>
+			<key>At a council of war, remember why everyone is there.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093949.74409002</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>237</integer>
+				</dict>
+			</dict>
 			<key>At the meeting of three rivers.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -16,14 +50,24 @@
 					<integer>140</integer>
 				</dict>
 			</dict>
-			<key>Faults in forever.md</key>
+			<key>Far from anywhere, the canyon lands.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516320364.622455</real>
+				<real>522100335.14283597</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>26</integer>
+					<integer>292</integer>
+				</dict>
+			</dict>
+			<key>Faults in forever.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093840.300156</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>227</integer>
 				</dict>
 			</dict>
 			<key>For uncounted generations our last confederation stood.md</key>
@@ -36,24 +80,44 @@
 					<integer>156</integer>
 				</dict>
 			</dict>
-			<key>In the old stories, we stole fire from the gods.md</key>
+			<key>In the heart of the ancient plan.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517782130.31133997</real>
+				<real>522100265.78861701</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>104</integer>
+					<integer>284</integer>
+				</dict>
+			</dict>
+			<key>In the old stories, we stole fire from the gods.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522099638.79446602</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>266</integer>
 				</dict>
 			</dict>
 			<key>Killing all your enemies is not a victory.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521590712.542624</real>
+				<real>522093910.80951899</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>157</integer>
+					<integer>231</integer>
+				</dict>
+			</dict>
+			<key>Miles from wherever.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522099480.641406</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>260</integer>
 				</dict>
 			</dict>
 			<key>Music from the deep.md</key>
@@ -66,54 +130,94 @@
 					<integer>160</integer>
 				</dict>
 			</dict>
-			<key>Only a monument remained to the way things were before.md</key>
+			<key>No one who’s still here remembers when the wheels of the machine were set in motion.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521587111.02084601</real>
+				<real>522100463.36319202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>154</integer>
+					<integer>300</integer>
+				</dict>
+			</dict>
+			<key>Only a monument remained to the way things were before.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093896.55169398</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>229</integer>
+				</dict>
+			</dict>
+			<key>Roving tribes wandering the desert.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522103330.45167601</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>313</integer>
 				</dict>
 			</dict>
 			<key>The history they tell you isn’t yours.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517782167.39816701</real>
+				<real>522100362.539352</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>106</integer>
+					<integer>296</integer>
 				</dict>
 			</dict>
 			<key>The place of trials.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517792889.45721102</real>
+				<real>522099500.58085799</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>131</integer>
+					<integer>264</integer>
+				</dict>
+			</dict>
+			<key>They built the first village down by the river in the valley.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522100258.18216997</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>282</integer>
 				</dict>
 			</dict>
 			<key>They killed us all.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517792800.46919501</real>
+				<real>522100479.58533603</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>127</integer>
+					<integer>302</integer>
+				</dict>
+			</dict>
+			<key>They stayed inside when the rain came.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522100271.33166599</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>286</integer>
 				</dict>
 			</dict>
 			<key>Too many to name. Too many forgotten, or best forgotten.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517793036.44521499</real>
+				<real>522093836.85654598</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>134</integer>
+					<integer>225</integer>
 				</dict>
 			</dict>
 			<key>Waiting before war.md</key>
@@ -136,6 +240,56 @@
 					<integer>97</integer>
 				</dict>
 			</dict>
+			<key>War is an articulation of dominance.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093940.96992803</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>233</integer>
+				</dict>
+			</dict>
+			<key>What is there to hope for.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522099456.00997299</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>258</integer>
+				</dict>
+			</dict>
+			<key>Whatever was here before, it’s gone now.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522099901.801754</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>270</integer>
+				</dict>
+			</dict>
+			<key>What’s left when all your friends are dead, or behind the wall under lock and key.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522100495.54584998</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>303</integer>
+				</dict>
+			</dict>
+			<key>Years go faster and faster but seasons stay the same.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522100306.92388898</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>288</integer>
+				</dict>
+			</dict>
 			<key>Z.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -156,12 +310,28 @@
 					<integer>123</integer>
 				</dict>
 			</dict>
+			<key>“I sure as hell hope I ain’t bullshittin’ you.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522093816.73619401</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>220</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>143.md</string>
+		</array>
+		<array>
 			<string>Z.md</string>
+		</array>
+		<array>
+			<string>“I sure as hell hope I ain’t bullshittin’ you.”.md</string>
 		</array>
 		<array>
 			<string>At the meeting of three rivers.md</string>
@@ -170,19 +340,67 @@
 			<string>In the old stories, we stole fire from the gods.md</string>
 		</array>
 		<array>
-			<string>“Don’t believe them. They won’t tell you the truth.”.md</string>
+			<string>In the heart of the ancient plan.md</string>
 		</array>
 		<array>
-			<string>Too many to name. Too many forgotten, or best forgotten.md</string>
+			<string>They built the first village down by the river in the valley.md</string>
+		</array>
+		<array>
+			<string>They stayed inside when the rain came.md</string>
+		</array>
+		<array>
+			<string>Years go faster and faster but seasons stay the same.md</string>
+		</array>
+		<array>
+			<string>Roving tribes wandering the desert.md</string>
+		</array>
+		<array>
+			<string>Whatever was here before, it’s gone now.md</string>
+		</array>
+		<array>
+			<string>“Don’t believe them. They won’t tell you the truth.”.md</string>
 		</array>
 		<array>
 			<string>The history they tell you isn’t yours.md</string>
 		</array>
 		<array>
+			<string>War is an articulation of dominance.md</string>
+		</array>
+		<array>
+			<string>Far from anywhere, the canyon lands.md</string>
+		</array>
+		<array>
+			<string>What is there to hope for.md</string>
+		</array>
+		<array>
 			<string>Walk with care.md</string>
 		</array>
 		<array>
+			<string>At a council of war, remember why everyone is there.md</string>
+		</array>
+		<array>
+			<string>No one who’s still here remembers when the wheels of the machine were set in motion.md</string>
+		</array>
+		<array>
+			<string>Miles from wherever.md</string>
+		</array>
+		<array>
+			<string>Waiting before war.md</string>
+		</array>
+		<array>
+			<string>The place of trials.md</string>
+		</array>
+		<array>
 			<string>They killed us all.md</string>
+		</array>
+		<array>
+			<string>After the massacre the bodies don’t even look like people anymore.md</string>
+		</array>
+		<array>
+			<string>What’s left when all your friends are dead, or behind the wall under lock and key.md</string>
+		</array>
+		<array>
+			<string>For uncounted generations our last confederation stood.md</string>
 		</array>
 		<array>
 			<string>Killing all your enemies is not a victory.md</string>
@@ -191,13 +409,7 @@
 			<string>Only a monument remained to the way things were before.md</string>
 		</array>
 		<array>
-			<string>The place of trials.md</string>
-		</array>
-		<array>
-			<string>Waiting before war.md</string>
-		</array>
-		<array>
-			<string>For uncounted generations our last confederation stood.md</string>
+			<string>Too many to name. Too many forgotten, or best forgotten.md</string>
 		</array>
 		<array>
 			<string>Faults in forever.md</string>
@@ -213,7 +425,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>160</integer>
+			<integer>313</integer>
 		</dict>
 	</dict>
 </dict>

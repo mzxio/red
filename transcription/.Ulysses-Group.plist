@@ -4,11 +4,8 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>book two</string>
-		<string>book one</string>
-		<string>book of weeks</string>
+		<string>red - 2</string>
 		<string>books</string>
-		<string>legacy</string>
 		<string>the story</string>
 		<string>red</string>
 		<string>red edit</string>
@@ -17,48 +14,6 @@
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>book of weeks</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516211828.13404202</real>
-				<key>lastModification</key>
-				<real>516211828.13404202</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>26</integer>
-				</dict>
-			</dict>
-			<key>book one</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516211758.43688297</real>
-				<key>lastModification</key>
-				<real>516211758.43688297</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>25</integer>
-				</dict>
-			</dict>
-			<key>book two</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516211758.42830497</real>
-				<key>lastModification</key>
-				<real>516211758.42830497</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>24</integer>
-				</dict>
-			</dict>
 			<key>books</key>
 			<dict>
 				<key>lastModification</key>
@@ -69,20 +24,6 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
-			<key>legacy</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516390078.04698402</real>
-				<key>lastModification</key>
-				<real>516390105.69639701</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>32</integer>
-				</dict>
-			</dict>
 			<key>red</key>
 			<dict>
 				<key>lastModification</key>
@@ -91,6 +32,20 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>red - 2</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522089329.08241302</real>
+				<key>lastModification</key>
+				<real>522089329.08241302</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>38</integer>
 				</dict>
 			</dict>
 			<key>red edit</key>
@@ -115,29 +70,10 @@
 			</dict>
 		</dict>
 		<key>sheetClusters</key>
-		<dict>
-			<key>175.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>516389638.39392501</real>
-				<key>lastModification</key>
-				<real>516389638.39392501</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>4</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>sheetClusters</key>
-	<array>
-		<array>
-			<string>175.md</string>
-		</array>
-	</array>
+	<array/>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -145,7 +81,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>35</integer>
+			<integer>38</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>

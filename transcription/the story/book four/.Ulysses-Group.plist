@@ -19,11 +19,11 @@
 			<key>Equipment failure.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522045025.03638297</real>
+				<real>522094992.334243</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>154</integer>
+					<integer>192</integer>
 				</dict>
 			</dict>
 			<key>How much was real.md</key>
@@ -56,14 +56,28 @@
 					<integer>76</integer>
 				</dict>
 			</dict>
-			<key>It’s listening.md</key>
+			<key>In the old stories, we stole fire from the gods.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>522094616.77443802</real>
 				<key>lastModification</key>
-				<real>522045098.66592002</real>
+				<real>522094616.77443802</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>160</integer>
+					<integer>174</integer>
+				</dict>
+			</dict>
+			<key>It’s listening.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522095008.81005502</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>196</integer>
 				</dict>
 			</dict>
 			<key>Little by little, time takes it all.md</key>
@@ -113,11 +127,21 @@
 			<key>Old people hanging out at an old store.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522045053.06738102</real>
+				<real>522095249.484025</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>158</integer>
+					<integer>213</integer>
+				</dict>
+			</dict>
+			<key>She said she used to live there, in the city.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522101166.83443201</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>223</integer>
 				</dict>
 			</dict>
 			<key>The city begins on a plain between mountains, a valley near the sea.md</key>
@@ -130,64 +154,104 @@
 					<integer>137</integer>
 				</dict>
 			</dict>
-			<key>The same dreams, again and again.md</key>
+			<key>The last human.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521589917.74253798</real>
+				<real>522103509.75795197</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>135</integer>
+					<integer>233</integer>
+				</dict>
+			</dict>
+			<key>The same dreams, again and again.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522095031.20646399</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>198</integer>
+				</dict>
+			</dict>
+			<key>There will be loss.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522103484.31834</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>229</integer>
 				</dict>
 			</dict>
 			<key>There’s no way to hold on to words in dreams.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521590444.79941797</real>
+				<real>522095038.76139301</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>142</integer>
+					<integer>200</integer>
+				</dict>
+			</dict>
+			<key>They all came together at the appointed place.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522094984.72843498</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>190</integer>
 				</dict>
 			</dict>
 			<key>They told me to look through the records.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521586790.107714</real>
+				<real>522100654.82167298</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>80</integer>
+					<integer>215</integer>
 				</dict>
 			</dict>
 			<key>To be a cell in some beautiful creature.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521586910.457605</real>
+				<real>522095132.05475402</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>90</integer>
+					<integer>208</integer>
 				</dict>
 			</dict>
 			<key>We travel and run tests.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521590648.570889</real>
+				<real>522095049.15327197</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>144</integer>
+					<integer>202</integer>
+				</dict>
+			</dict>
+			<key>What is left.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522095190.39018399</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>211</integer>
 				</dict>
 			</dict>
 			<key>Where do we go when we can’t find the way.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521586836.819215</real>
+				<real>522095071.41326803</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>88</integer>
+					<integer>204</integer>
 				</dict>
 			</dict>
 			<key>You came to me in the tall grass in the deep forest, just after dawn.md</key>
@@ -210,10 +274,23 @@
 					<integer>54</integer>
 				</dict>
 			</dict>
+			<key>“You don’t need a body.”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522101184.727732</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>225</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>In the old stories, we stole fire from the gods.md</string>
+		</array>
 		<array>
 			<string>Σ.md</string>
 		</array>
@@ -221,16 +298,13 @@
 			<string>Music from the deep.md</string>
 		</array>
 		<array>
-			<string>I was made to be here.md</string>
-		</array>
-		<array>
 			<string>They told me to look through the records.md</string>
 		</array>
 		<array>
-			<string>I did what she asked.md</string>
+			<string>I was made to be here.md</string>
 		</array>
 		<array>
-			<string>We travel and run tests.md</string>
+			<string>I did what she asked.md</string>
 		</array>
 		<array>
 			<string>The same dreams, again and again.md</string>
@@ -239,10 +313,28 @@
 			<string>There’s no way to hold on to words in dreams.md</string>
 		</array>
 		<array>
+			<string>It’s listening.md</string>
+		</array>
+		<array>
+			<string>We travel and run tests.md</string>
+		</array>
+		<array>
 			<string>The city begins on a plain between mountains, a valley near the sea.md</string>
 		</array>
 		<array>
-			<string>It’s listening.md</string>
+			<string>“You don’t need a body.”.md</string>
+		</array>
+		<array>
+			<string>There will be loss.md</string>
+		</array>
+		<array>
+			<string>She said she used to live there, in the city.md</string>
+		</array>
+		<array>
+			<string>New place, new rules.md</string>
+		</array>
+		<array>
+			<string>They all came together at the appointed place.md</string>
 		</array>
 		<array>
 			<string>Equipment failure.md</string>
@@ -251,13 +343,10 @@
 			<string>Where do we go when we can’t find the way.md</string>
 		</array>
 		<array>
-			<string>New place, new rules.md</string>
-		</array>
-		<array>
 			<string>Burning, broken, scarred.md</string>
 		</array>
 		<array>
-			<string>Old people hanging out at an old store.md</string>
+			<string>What is left.md</string>
 		</array>
 		<array>
 			<string>Little by little, time takes it all.md</string>
@@ -266,13 +355,19 @@
 			<string>No way for memories to provide sustenance.md</string>
 		</array>
 		<array>
+			<string>Old people hanging out at an old store.md</string>
+		</array>
+		<array>
 			<string>How much was real.md</string>
 		</array>
 		<array>
-			<string>You came to me in the tall grass in the deep forest, just after dawn.md</string>
+			<string>The last human.md</string>
 		</array>
 		<array>
 			<string>To be a cell in some beautiful creature.md</string>
+		</array>
+		<array>
+			<string>You came to me in the tall grass in the deep forest, just after dawn.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -282,7 +377,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>161</integer>
+			<integer>233</integer>
 		</dict>
 	</dict>
 </dict>
