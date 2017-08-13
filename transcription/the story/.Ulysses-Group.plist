@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>book zero</string>
 		<string>book one</string>
 		<string>book two</string>
 		<string>book three</string>
@@ -53,35 +54,41 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>book zero</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524119968.681189</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
+			<key>126.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>522089776.17431599</real>
+				<real>524100670.34670299</real>
 				<key>lastModification</key>
-				<real>522089776.17431599</real>
+				<real>524100670.34670299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>60</integer>
+					<integer>66</integer>
 				</dict>
 			</dict>
-			<key>There will be loss.md</key>
+			<key>Unknown.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522102189.88237101</real>
 				<key>lastModification</key>
-				<real>522102189.88237101</real>
+				<real>524120152.80551302</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>63</integer>
+					<integer>71</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -89,10 +96,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
+			<string>126.md</string>
 		</array>
 		<array>
-			<string>There will be loss.md</string>
+			<string>Unknown.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -102,12 +109,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>20</integer>
+			<integer>23</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>63</integer>
+			<integer>72</integer>
 		</dict>
 	</dict>
 </dict>

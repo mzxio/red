@@ -1,4 +1,4 @@
-### They all came together at the appointed place. 
+### They all came together at the appointed place.
 
 Long forgotten dreams only half seen through sleeping eyes. Other lives experienced at a tangent, between fantasy and reality. Like drug-fueled hallucination, synthetic.
 
@@ -10,6 +10,6 @@ One of them remembered all with no need of guidance. She remembered because she 
 
 The walls fell away along with the city and the land, until all that was left was the original material. Cosmic seas bathed in darkness and silence.
 
-Reintegrated with themselves, they were free to begin again. For as long as the fragile cosmos would held, for as long as the mother’s grace permitted. 
+Reintegrated with themselves, they were free to begin again. For as long as the fragile cosmos held, for as long as the mother’s grace permitted. 
 
 On those shores they created a new land together. 

@@ -8,8 +8,6 @@ Maybe none of them will tell you because you already know.
 
 You’ll drive on through the day, through the rain and into the sun, from the depth of the city to the desolate nowhere. You’ll ride together as long as you know how, but as soon as you forget it’ll all fall apart.
 
-Just not right now.
-
-Not this chilly morning. Not while walking down these hills looking for the car. Not while this hunger still craves something more. Not while there’s still so far to go. 
+Just not right now. Not this chilly morning. Not while walking down these hills looking for the car. Not while this hunger still craves something more. Not while there’s still so far to go. 
 
 “Road’s long from here.”

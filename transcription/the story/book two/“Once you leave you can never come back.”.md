@@ -1,6 +1,6 @@
 ### “Once you leave you can never come back.”
 
-Never going back to what it was. Even if you never leave, there’s no going back. Only keeping a dying world alive in my memory. Cut flowers, snipped off from real life, only given a little extra time. 
+Never going back to what it was. Even if you never leave, there’s no return. Only keeping a dying world alive in my memory. Cut flowers, snipped off from real life, only given a little extra time. 
 
 “What’s already here, just hidden? So much.”
 

@@ -1,4 +1,4 @@
-### They stayed inside when the rain came.
+### They stayed inside when the rains came.
 
 Nothing much serious needed doing. From under eaves, through windows, they watched. Rain fell on the fields, on the hills. The river swelled with silt and foam, swirling debris washed away. It rained all day and all night and into the next day. Smith’s forge and potter’s kiln steamed billowy clouds of steam. The houses smoked. 
 

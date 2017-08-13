@@ -8,6 +8,4 @@ At the terminus, yesterday becomes a different yesterday. Tomorrow is the same a
 
 Collapse. Crossing into the other domain. Folding other universes into one domain.
 
-“Sometimes I can’t see it.”
-
-”Sometimes I can’t forget.”
+“Sometimes I can’t see it. Sometimes I can’t forget.”

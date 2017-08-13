@@ -1,6 +1,6 @@
-### “Nothing happened the way it was supposed to.”
+### Only one of us made it out alive. 
 
-Only one of us made it out alive. 
+“Nothing happened the way it was supposed to.”
 
 The snow came down. Slow at first, thicker and heavier, then blowing whiteout. Rushing like star trails in the lights at night.
 

@@ -1,10 +1,9 @@
 ### “It wasn’t there where anyone would see it, not right away.“
 
-They’ll tell you who they are. The same spirit moves in them. almost. Same spirit, different motion. Different choices. Everyone will say one thing and do another. 
+They’ll tell you who they are. Same spirit, different motion. Different choices. 
+They will say one thing and do another. Make sure you know what they are about.
 
-Make sure you know what they are about.
-
-Look around, between the cracks. It may mean life or death. If they tell you who they are, listen. Listen even if you hear something you don’t like. Don’t try to make up a different story that you like better. If the story you hear is an ugly story, tell an ugly story. Don’t shy away from their truth when they bring it to you.
+Look around, look between the cracks. It may mean life or death. If they tell you who they are, listen. Listen even if you hear something you don’t like. Don’t try to make up a different story that you like better. If the story you hear is an ugly story, tell an ugly story. Don’t shy away from their truth when they bring it to you.
 
 Their truth doesn’t have to be your truth.  As long as you both live the same universe, their truth may change your reality. You won’t know for sure until later. Trust no one, believe everyone. You have to decide.
 

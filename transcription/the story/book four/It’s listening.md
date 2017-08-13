@@ -8,7 +8,9 @@ We go through the cycle again. Always I stand helpless until the dark and the fi
 
 Again again again. 
 
-An eternity she has been sleeping, dreaming. Dreaming the same dream almost forever. Once an interloper came, an addition to the dream. He seemed confused, afraid. He was sent to spy on us. I kept him separate for a time. Until we go again.
+An eternity she has been sleeping, dreaming. Dreaming the same dream almost forever. Once an interloper came, an addition to the dream. He seemed confused, afraid. He was sent to spy on us. I kept him separate for a time.
+
+Until we go again.
 
 Why this torture? Why not just let us die? We were as good as dead when they found us. Why not just leave us dead? 
 
