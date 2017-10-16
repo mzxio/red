@@ -1,0 +1,11 @@
+### The first age. 
+
+No final candidates yet. The process has begun.
+
+One formation has been identified, the promise of many possible destinations. It will take some time to reach them, to make a closer examination. We travel and run tests.
+
+With no final candidates there are no exact parameters evaluate fitness or adaptability. The beings from the store remain closed. No small domain, no added stimuli, no additional beings, no standard process is enough. One stays locked, the other dreams. 
+
+I have watched the dreams. sometimes the fire in the dark place, besieged by howling enemies. All darkened places, all pursued by enemies. A dream in a labyrinthine city seems to make them most at ease.
+
+Perhaps it’s time to take them out of isolated domains and give them over to such a place. Big and wild, bustling, populous. Perhaps they will awaken in the city.

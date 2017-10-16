@@ -6,44 +6,52 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
+			<key>Before the beginning there was no thing.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524119992.14047498</real>
+				<real>527485530.96059197</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>7</integer>
+					<integer>22</integer>
 				</dict>
 			</dict>
 			<key>Desert. Wasteland.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>527485479.83705801</real>
 				<key>lastModification</key>
-				<real>524119992.14022702</real>
+				<real>527485479.83705801</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>6</integer>
+					<integer>21</integer>
 				</dict>
 			</dict>
 			<key>It begins by the fire, in howling darkness.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>527915726.64060003</real>
 				<key>lastModification</key>
-				<real>524119992.14060301</real>
+				<real>527915726.64060003</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>8</integer>
+					<integer>24</integer>
 				</dict>
 			</dict>
 			<key>O.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524119987.31325501</real>
+				<real>527915729.07395601</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>3</integer>
+					<integer>26</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -54,7 +62,7 @@
 			<string>O.md</string>
 		</array>
 		<array>
-			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
+			<string>Before the beginning there was no thing.md</string>
 		</array>
 		<array>
 			<string>It begins by the fire, in howling darkness.md</string>
@@ -70,7 +78,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>8</integer>
+			<integer>26</integer>
 		</dict>
 	</dict>
 </dict>

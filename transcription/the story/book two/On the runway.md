@@ -1,6 +1,6 @@
 ### On the runway.
 
-Sun low against the horizon. We stop, we go, we wait. Reset. Lean back.
+Sun low against the horizon. We stop, we go, we wait. Rest. Lean back.
 
 “Wait.”
 

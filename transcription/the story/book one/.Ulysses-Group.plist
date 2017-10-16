@@ -36,20 +36,6 @@
 					<integer>853</integer>
 				</dict>
 			</dict>
-			<key>Before the beginning there was no thing. Yet even then the story was told.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524119992.14468598</real>
-				<key>lastModification</key>
-				<real>524119992.14468598</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>895</integer>
-				</dict>
-			</dict>
 			<key>Blood and air and silence.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -80,18 +66,14 @@
 					<integer>666</integer>
 				</dict>
 			</dict>
-			<key>Desert. Wasteland.md</key>
+			<key>Desert. Void.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524119992.14714402</real>
 				<key>lastModification</key>
-				<real>524119992.14714402</real>
+				<real>527485591.80878401</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>897</integer>
+					<integer>909</integer>
 				</dict>
 			</dict>
 			<key>Didn’t have to do the work alone.md</key>
@@ -166,16 +148,12 @@
 			</dict>
 			<key>It begins by the fire, in howling darkness.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524119992.14629</real>
 				<key>lastModification</key>
-				<real>524119992.14629</real>
+				<real>527915726.63812202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>896</integer>
+					<integer>912</integer>
 				</dict>
 			</dict>
 			<key>It isn’t where we are, it’s where we aren’t.md</key>
@@ -216,6 +194,16 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>792</integer>
+				</dict>
+			</dict>
+			<key>Not much time now.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529870282.94502699</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>917</integer>
 				</dict>
 			</dict>
 			<key>Nothing is as it seems.md</key>
@@ -278,38 +266,14 @@
 					<integer>719</integer>
 				</dict>
 			</dict>
-			<key>This place was beautiful, once.md</key>
+			<key>Walking down the old tracks.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516144057.93949997</real>
+				<real>529869963.17837298</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>455</integer>
-				</dict>
-			</dict>
-			<key>Untitled.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524120022.673976</real>
-				<key>lastModification</key>
-				<real>524120022.673976</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>900</integer>
-				</dict>
-			</dict>
-			<key>Walking down the old train tracks.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>520314361.96245098</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>866</integer>
+					<integer>913</integer>
 				</dict>
 			</dict>
 			<key>What qualifies as reality.md</key>
@@ -457,22 +421,16 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>Before the beginning there was no thing. Yet even then the story was told.md</string>
+			<string>I.md</string>
 		</array>
 		<array>
 			<string>It begins by the fire, in howling darkness.md</string>
 		</array>
 		<array>
-			<string>Desert. Wasteland.md</string>
-		</array>
-		<array>
-			<string>I.md</string>
+			<string>Desert. Void.md</string>
 		</array>
 		<array>
 			<string>Crash.md</string>
-		</array>
-		<array>
-			<string>Untitled.md</string>
 		</array>
 		<array>
 			<string>Blood and air and silence.md</string>
@@ -493,7 +451,7 @@
 			<string>“What do we take with us-”.md</string>
 		</array>
 		<array>
-			<string>Walking down the old train tracks.md</string>
+			<string>Walking down the old tracks.md</string>
 		</array>
 		<array>
 			<string>Ego holds on to self so tight.md</string>
@@ -520,7 +478,7 @@
 			<string>How much wreckage is left out there.md</string>
 		</array>
 		<array>
-			<string>This place was beautiful, once.md</string>
+			<string>Not much time now.md</string>
 		</array>
 		<array>
 			<string>Going into an empty place to live alone forever.md</string>
@@ -593,7 +551,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>900</integer>
+			<integer>918</integer>
 		</dict>
 	</dict>
 </dict>

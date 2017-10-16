@@ -2,6 +2,7 @@
 
 Driving too fast in the rain. Slick backcountry highways. Long blind curves. Rushing to the town. Over the bridge to the shore. Rain and cold and wet and wind. Enough to kill umbrellas. Enough to soak you through.
 
+Crackling return from absence. I missed what was happening until it was too late. 
+
 No shoes, no cares. That’s how it should be. Go into the ocean here at the edge of the world. 
 
-Crackling return from absence. I missed what was happening until it was too late. 

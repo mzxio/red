@@ -6,60 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>126.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292964.490206</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>414</integer>
-				</dict>
-			</dict>
-			<key>134.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524293186.80778998</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>434</integer>
-				</dict>
-			</dict>
-			<key>154.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292925.32774001</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>412</integer>
-				</dict>
-			</dict>
-			<key>171.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292980.22662801</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>416</integer>
-				</dict>
-			</dict>
-			<key>218.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524119600.48829299</real>
-				<key>lastModification</key>
-				<real>524119600.48829299</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>389</integer>
-				</dict>
-			</dict>
 			<key>220.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -68,90 +14,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>418</integer>
-				</dict>
-			</dict>
-			<key>229.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524293067.89215201</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>420</integer>
-				</dict>
-			</dict>
-			<key>231.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524293173.770033</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>432</integer>
-				</dict>
-			</dict>
-			<key>232.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292746.713736</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>393</integer>
-				</dict>
-			</dict>
-			<key>239.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524293139.40467399</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>430</integer>
-				</dict>
-			</dict>
-			<key>240.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524293125.16286498</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>428</integer>
-				</dict>
-			</dict>
-			<key>247.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524292776.59556901</real>
-				<key>lastModification</key>
-				<real>524292776.59556901</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>396</integer>
-				</dict>
-			</dict>
-			<key>58.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292825.84127498</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>400</integer>
-				</dict>
-			</dict>
-			<key>86.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292865.52246398</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>404</integer>
 				</dict>
 			</dict>
 			<key>After the massacre the bodies don’t even look like people anymore.md</key>
@@ -182,20 +44,6 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>140</integer>
-				</dict>
-			</dict>
-			<key>Birdsong.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524033541.99073797</real>
-				<key>lastModification</key>
-				<real>524033541.99073797</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>354</integer>
 				</dict>
 			</dict>
 			<key>Far from anywhere, the canyon lands.md</key>
@@ -238,14 +86,14 @@
 					<integer>284</integer>
 				</dict>
 			</dict>
-			<key>In the old stories, we stole fire from the gods.md</key>
+			<key>In the old stories, we stole the fire.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522099638.79446602</real>
+				<real>529872764.998873</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>266</integer>
+					<integer>459</integer>
 				</dict>
 			</dict>
 			<key>Killing all your enemies is not a victory.md</key>
@@ -408,6 +256,16 @@
 					<integer>323</integer>
 				</dict>
 			</dict>
+			<key>Whatever happened to the ones who washed away in the flood.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529820845.024939</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>457</integer>
+				</dict>
+			</dict>
 			<key>Whatever was here before, it’s gone now.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -458,6 +316,96 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>after the cold comes the melting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529818934.25878102</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>453</integer>
+				</dict>
+			</dict>
+			<key>for millennia she walked between the stars.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529818189.73201197</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>449</integer>
+				</dict>
+			</dict>
+			<key>keep to the road.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484207.50152898</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>445</integer>
+				</dict>
+			</dict>
+			<key>mesa country.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484119.93488097</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>437</integer>
+				</dict>
+			</dict>
+			<key>precession through the crowds.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529818256.63097298</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>451</integer>
+				</dict>
+			</dict>
+			<key>they’ll let you in, but only if you pass their test.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484093.23264802</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>435</integer>
+				</dict>
+			</dict>
+			<key>trying to forget, even when there is no forgetting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484168.07339501</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>441</integer>
+				</dict>
+			</dict>
+			<key>walking slow.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529820726.23249</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>456</integer>
+				</dict>
+			</dict>
+			<key>ways to bring the fire.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484185.095424</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>443</integer>
+				</dict>
+			</dict>
 			<key>“Don’t believe them. They won’t tell you the truth.”.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -478,16 +426,20 @@
 					<integer>360</integer>
 				</dict>
 			</dict>
+			<key>“there are a hundred ways for this to go wrong”.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484148.09522003</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>439</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>218.md</string>
-		</array>
-		<array>
-			<string>Birdsong.md</string>
-		</array>
 		<array>
 			<string>Z.md</string>
 		</array>
@@ -498,16 +450,16 @@
 			<string>“I sure as hell hope I ain’t bullshittin’ you.”.md</string>
 		</array>
 		<array>
-			<string>In the old stories, we stole fire from the gods.md</string>
+			<string>In the old stories, we stole the fire.md</string>
+		</array>
+		<array>
+			<string>walking slow.md</string>
 		</array>
 		<array>
 			<string>220.md</string>
 		</array>
 		<array>
-			<string>171.md</string>
-		</array>
-		<array>
-			<string>240.md</string>
+			<string>keep to the road.md</string>
 		</array>
 		<array>
 			<string>They built the first village down by the river in the valley.md</string>
@@ -516,7 +468,7 @@
 			<string>In the heart of the ancient plan.md</string>
 		</array>
 		<array>
-			<string>231.md</string>
+			<string>ways to bring the fire.md</string>
 		</array>
 		<array>
 			<string>They stayed inside when the rains came.md</string>
@@ -525,19 +477,19 @@
 			<string>Years go faster and faster but seasons stay the same.md</string>
 		</array>
 		<array>
-			<string>58.md</string>
+			<string>trying to forget, even when there is no forgetting.md</string>
 		</array>
 		<array>
 			<string>Roving tribes wandering the desert.md</string>
 		</array>
 		<array>
-			<string>126.md</string>
+			<string>“there are a hundred ways for this to go wrong”.md</string>
 		</array>
 		<array>
-			<string>154.md</string>
+			<string>mesa country.md</string>
 		</array>
 		<array>
-			<string>239.md</string>
+			<string>they’ll let you in, but only if you pass their test.md</string>
 		</array>
 		<array>
 			<string>“Don’t believe them. They won’t tell you the truth.”.md</string>
@@ -570,7 +522,7 @@
 			<string>Far from anywhere, the canyon lands.md</string>
 		</array>
 		<array>
-			<string>86.md</string>
+			<string>Whatever happened to the ones who washed away in the flood.md</string>
 		</array>
 		<array>
 			<string>Waiting before war.md</string>
@@ -585,7 +537,7 @@
 			<string>After the massacre the bodies don’t even look like people anymore.md</string>
 		</array>
 		<array>
-			<string>229.md</string>
+			<string>after the cold comes the melting.md</string>
 		</array>
 		<array>
 			<string>For uncounted generations our last confederation stood.md</string>
@@ -603,10 +555,7 @@
 			<string>Killing all your enemies is not a victory.md</string>
 		</array>
 		<array>
-			<string>247.md</string>
-		</array>
-		<array>
-			<string>232.md</string>
+			<string>precession through the crowds.md</string>
 		</array>
 		<array>
 			<string>Faults in forever.md</string>
@@ -618,7 +567,7 @@
 			<string>Your coming was foretold.md</string>
 		</array>
 		<array>
-			<string>134.md</string>
+			<string>for millennia she walked between the stars.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -628,7 +577,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>434</integer>
+			<integer>460</integer>
 		</dict>
 	</dict>
 </dict>

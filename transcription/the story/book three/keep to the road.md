@@ -1,0 +1,3 @@
+# keep to the road
+
+the fine line in the middle. do not stray too far. the road is safe but the lands on either side can be cruel and untamed. only a little too hot or a little too cold and we’ll all die, so it is with the road. walk the middle. keep the sides at the side. walk straight if you can, follow the lines of the earth when there is no road. the middle is not always obvious. there are places you should walk and places you should avoid. places that do not belong to us but are the domain of beings older and longer living than ourselves. the elders of the hills and pines. steal fire from the gods if you must, if you haven’t get glimpsed its secrets, but do not linger in the house of gods too long. their road is not yours, their middle will lead you astray. 

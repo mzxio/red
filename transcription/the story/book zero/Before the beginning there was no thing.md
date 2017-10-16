@@ -1,0 +1,17 @@
+
+
+### Before the beginning there was no thing.
+
+Yet even then the story was told.
+
+The story was told before the beginning. It will be told after the end.
+
+We are all in the story.
+
+Our stories are the stories of the universe.
+
+We can never be erased from time, but our stories may be forgotten when there is no one left to tell them. 
+
+Tell old stories. Make new stories. Cast your stories into the void. 
+
+The universe begins.

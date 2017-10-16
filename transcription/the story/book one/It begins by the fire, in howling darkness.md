@@ -1,0 +1,9 @@
+### It begins by the fire, in howling darkness.
+
+Mysteries. Visions. Unknowable space past space. Existence. Degrading memory. Eternal life recovered pieces without context. Infinite light emerging. 
+
+Waking dreams. Plains, mountains, valleys, canyons, rivers, cities. A palace, a garden, a boat. Sanctuary. Culture. Arrangements in continuum. Meanings changing, narratives twisting. Moving on. Forgotten relics. Pieces of history. Bones and dust. 
+
+"There’s always still hope, so — I love you."
+
+`Message undeliverable: signal lost`

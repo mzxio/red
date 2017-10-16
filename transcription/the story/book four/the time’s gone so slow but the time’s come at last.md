@@ -1,0 +1,9 @@
+# the time’s gone so slow but the time’s come at last.
+
+mother releases her children into the sun, to drift slowly down to their new home. mother has done all she can. now she will watch and wait.
+
+on the first day of the new world.
+
+miracle of miracles
+only one seed
+could not take root.

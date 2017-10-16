@@ -4,198 +4,8 @@
 <dict>
 	<key>resolutionData</key>
 	<dict>
-		<key>countingGoal</key>
-		<real>524101162.415411</real>
 		<key>sheetClusters</key>
 		<dict>
-			<key>101.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291520.69409502</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>293</integer>
-				</dict>
-			</dict>
-			<key>131.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524292365.12351602</real>
-				<key>lastModification</key>
-				<real>524292365.12351602</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>340</integer>
-				</dict>
-			</dict>
-			<key>132.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291914.189188</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>311</integer>
-				</dict>
-			</dict>
-			<key>133.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291940.89017302</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>313</integer>
-				</dict>
-			</dict>
-			<key>180.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292137.199422</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>321</integer>
-				</dict>
-			</dict>
-			<key>195.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292693.02389699</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>363</integer>
-				</dict>
-			</dict>
-			<key>196.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292477.39087099</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>345</integer>
-				</dict>
-			</dict>
-			<key>204.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292291.56745797</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>337</integer>
-				</dict>
-			</dict>
-			<key>208.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291671.29399902</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>305</integer>
-				</dict>
-			</dict>
-			<key>211.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291460.79586297</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>291</integer>
-				</dict>
-			</dict>
-			<key>45.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291252.61017799</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>280</integer>
-				</dict>
-			</dict>
-			<key>59.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292640.91698402</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>359</integer>
-				</dict>
-			</dict>
-			<key>61.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292033.85839701</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>317</integer>
-				</dict>
-			</dict>
-			<key>88.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292658.52673101</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>361</integer>
-				</dict>
-			</dict>
-			<key>92.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291878.91140902</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>309</integer>
-				</dict>
-			</dict>
-			<key>95.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291849.66627598</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>307</integer>
-				</dict>
-			</dict>
-			<key>96.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524291362.30400997</real>
-				<key>lastModification</key>
-				<real>524291362.30400997</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>285</integer>
-				</dict>
-			</dict>
-			<key>99.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524291572.794563</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>299</integer>
-				</dict>
-			</dict>
 			<key>Burning, broken, scarred.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -216,6 +26,26 @@
 					<integer>192</integer>
 				</dict>
 			</dict>
+			<key>He walks into a bar.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529816853.24601197</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>405</integer>
+				</dict>
+			</dict>
+			<key>How can they decide if they don’t know the stakes.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529817451.47147501</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>415</integer>
+				</dict>
+			</dict>
 			<key>How much was real.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -229,11 +59,11 @@
 			<key>I did what she asked.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521590658.65103102</real>
+				<real>527054450.355299</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>146</integer>
+					<integer>367</integer>
 				</dict>
 			</dict>
 			<key>I was made to be here.md</key>
@@ -264,6 +94,16 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>282</integer>
+				</dict>
+			</dict>
+			<key>Locked down tight.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529817859.91769499</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>421</integer>
 				</dict>
 			</dict>
 			<key>New place, new rules.md</key>
@@ -306,14 +146,34 @@
 					<integer>223</integer>
 				</dict>
 			</dict>
-			<key>The city begins on a plain between mountains, a valley near the sea.md</key>
+			<key>Some living, most dead.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>521589917.74278098</real>
+				<real>529817159.89584899</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>137</integer>
+					<integer>411</integer>
+				</dict>
+			</dict>
+			<key>The city begins.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529816984.233486</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>407</integer>
+				</dict>
+			</dict>
+			<key>The first age.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529816809.63449901</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>403</integer>
 				</dict>
 			</dict>
 			<key>The last human.md</key>
@@ -366,34 +226,38 @@
 					<integer>347</integer>
 				</dict>
 			</dict>
-			<key>They told me to look through the records.md</key>
+			<key>Thought you’d never ask - 2.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529882326.284477</real>
 				<key>lastModification</key>
-				<real>522100654.82167298</real>
+				<real>529882326.284477</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>215</integer>
+					<integer>436</integer>
+				</dict>
+			</dict>
+			<key>Thought you’d never ask.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529818617.33418101</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>427</integer>
 				</dict>
 			</dict>
 			<key>To be a cell in some beautiful creature.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522095132.05475402</real>
+				<real>529882716.62693501</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>208</integer>
-				</dict>
-			</dict>
-			<key>We travel and run tests.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>524292146.67361403</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>325</integer>
+					<integer>438</integer>
 				</dict>
 			</dict>
 			<key>What is left.md</key>
@@ -419,11 +283,11 @@
 			<key>You came to me in the tall grass in the deep forest, just after dawn.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>517792702.48640501</real>
+				<real>529882721.67112398</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>45</integer>
+					<integer>440</integer>
 				</dict>
 			</dict>
 			<key>You said you used to live there, in the city.md</key>
@@ -436,6 +300,70 @@
 					<integer>333</integer>
 				</dict>
 			</dict>
+			<key>drowning in tomorrow.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484632.56502497</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>402</integer>
+				</dict>
+			</dict>
+			<key>is it that obvious.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484472.43754399</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>388</integer>
+				</dict>
+			</dict>
+			<key>it’s easy to lose each other in the cosmos.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>529819208.64634299</real>
+				<key>lastModification</key>
+				<real>529819208.64634299</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>429</integer>
+				</dict>
+			</dict>
+			<key>nothing flat.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484417.69628203</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>380</integer>
+				</dict>
+			</dict>
+			<key>nowhere but here.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529817729.44747603</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>419</integer>
+				</dict>
+			</dict>
+			<key>perturbations in orbits.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529817102.36586398</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>409</integer>
+				</dict>
+			</dict>
 			<key>sometimes all i see is hallways. some old building. abandoned, repurposed. walking the halls, it’s.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -444,6 +372,66 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>355</integer>
+				</dict>
+			</dict>
+			<key>survival isn’t governed by fitness.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484358.41099399</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>376</integer>
+				</dict>
+			</dict>
+			<key>the line between times.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484445.047391</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>384</integer>
+				</dict>
+			</dict>
+			<key>the time’s gone so slow but the time’s come at last.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484514.52937198</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>392</integer>
+				</dict>
+			</dict>
+			<key>transitioning from one state to another.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529820905.17826599</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>430</integer>
+				</dict>
+			</dict>
+			<key>unaccounted eccentricity.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529817650.30091703</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>417</integer>
+				</dict>
+			</dict>
+			<key>vectors in space have direction and magnitude.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527484276.009417</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>370</integer>
 				</dict>
 			</dict>
 			<key>Σ.md</key>
@@ -471,31 +459,34 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>Thought you’d never ask - 2.md</string>
+		</array>
+		<array>
 			<string>Σ.md</string>
 		</array>
 		<array>
-			<string>59.md</string>
+			<string>it’s easy to lose each other in the cosmos.md</string>
 		</array>
 		<array>
-			<string>92.md</string>
+			<string>vectors in space have direction and magnitude.md</string>
 		</array>
 		<array>
-			<string>195.md</string>
+			<string>How can they decide if they don’t know the stakes.md</string>
 		</array>
 		<array>
-			<string>88.md</string>
+			<string>transitioning from one state to another.md</string>
 		</array>
 		<array>
-			<string>45.md</string>
-		</array>
-		<array>
-			<string>They told me to look through the records.md</string>
-		</array>
-		<array>
-			<string>I was made to be here.md</string>
+			<string>survival isn’t governed by fitness.md</string>
 		</array>
 		<array>
 			<string>I did what she asked.md</string>
+		</array>
+		<array>
+			<string>Some living, most dead.md</string>
+		</array>
+		<array>
+			<string>I was made to be here.md</string>
 		</array>
 		<array>
 			<string>The same dreams, again and again.md</string>
@@ -507,34 +498,31 @@
 			<string>There’s no way to hold on to words in dreams.md</string>
 		</array>
 		<array>
-			<string>211.md</string>
+			<string>Locked down tight.md</string>
 		</array>
 		<array>
 			<string>It’s listening.md</string>
 		</array>
 		<array>
-			<string>180.md</string>
+			<string>nothing flat.md</string>
 		</array>
 		<array>
-			<string>101.md</string>
+			<string>unaccounted eccentricity.md</string>
 		</array>
 		<array>
-			<string>131.md</string>
+			<string>the line between times.md</string>
 		</array>
 		<array>
-			<string>95.md</string>
+			<string>The first age.md</string>
 		</array>
 		<array>
-			<string>We travel and run tests.md</string>
+			<string>The city begins.md</string>
 		</array>
 		<array>
-			<string>The city begins on a plain between mountains, a valley near the sea.md</string>
+			<string>perturbations in orbits.md</string>
 		</array>
 		<array>
-			<string>99.md</string>
-		</array>
-		<array>
-			<string>61.md</string>
+			<string>is it that obvious.md</string>
 		</array>
 		<array>
 			<string>“You don’t need a body.”.md</string>
@@ -555,9 +543,6 @@
 			<string>Equipment failure.md</string>
 		</array>
 		<array>
-			<string>96.md</string>
-		</array>
-		<array>
 			<string>No way for memories to provide sustenance.md</string>
 		</array>
 		<array>
@@ -570,19 +555,22 @@
 			<string>Burning, broken, scarred.md</string>
 		</array>
 		<array>
-			<string>196.md</string>
+			<string>He walks into a bar.md</string>
 		</array>
 		<array>
 			<string>They all came together at the appointed place.md</string>
 		</array>
 		<array>
-			<string>132.md</string>
+			<string>nowhere but here.md</string>
 		</array>
 		<array>
-			<string>133.md</string>
+			<string>the time’s gone so slow but the time’s come at last.md</string>
 		</array>
 		<array>
 			<string>What is left.md</string>
+		</array>
+		<array>
+			<string>drowning in tomorrow.md</string>
 		</array>
 		<array>
 			<string>Old people hanging out at an old store.md</string>
@@ -594,10 +582,7 @@
 			<string>The last human.md</string>
 		</array>
 		<array>
-			<string>204.md</string>
-		</array>
-		<array>
-			<string>208.md</string>
+			<string>Thought you’d never ask.md</string>
 		</array>
 		<array>
 			<string>To be a cell in some beautiful creature.md</string>
@@ -610,15 +595,10 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
-		<key>countingGoal</key>
-		<dict>
-			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>2</integer>
-		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>363</integer>
+			<integer>440</integer>
 		</dict>
 	</dict>
 </dict>

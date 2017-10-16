@@ -4,7 +4,6 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>red - 2</string>
 		<string>books</string>
 		<string>the story</string>
 		<string>red</string>
@@ -34,20 +33,6 @@
 					<integer>34</integer>
 				</dict>
 			</dict>
-			<key>red - 2</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>522089329.08241302</real>
-				<key>lastModification</key>
-				<real>522089329.08241302</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>38</integer>
-				</dict>
-			</dict>
 			<key>red edit</key>
 			<dict>
 				<key>lastModification</key>
@@ -70,10 +55,25 @@
 			</dict>
 		</dict>
 		<key>sheetClusters</key>
-		<dict/>
+		<dict>
+			<key>outline.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529628895.48678702</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>sheetClusters</key>
-	<array/>
+	<array>
+		<array>
+			<string>outline.md</string>
+		</array>
+	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -86,7 +86,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>

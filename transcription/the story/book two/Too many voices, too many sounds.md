@@ -1,6 +1,6 @@
 ### Too many voices, too many sounds.
 
-The flood, the flood, the endless flood. Why won’t it ever stop? All previous agreements nullified, superseded. Scattered debris and dust and ashes. What is real? None of what was left remains. 
+Why won’t it ever stop? Scattered debris and dust and ashes. What is real? None of what was left remains. All previous agreements nullified, superseded. 
 
 “No one can ever find the body. Only if you go looking in the past.”
 

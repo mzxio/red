@@ -1,0 +1,3 @@
+# survival isn’t governed by fitness.
+
+there is no supernatural or divine force at work in who lives or dies. fitness, adaptation, suitability, those things play out over time. in each life, fitness is just a chance at solving certain kinds of problems. there is no magic key. no final judgement. we look for fitness and justice and act surprised when these forces don’t seem to go our way. randomness and chance have more sway over us than righteousness or fitness. adaptability will improve your chances, as does determination. cooperation too, with a little competition. in the end the only formula is this: the ones who lived are the ones who didn’t die. what can we learn from that? nothing. everything. that is evolution. we are evolving. death is as relevant as life. 

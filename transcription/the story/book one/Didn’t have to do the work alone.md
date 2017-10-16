@@ -1,6 +1,6 @@
 ### Didn’t have to do the work alone.
 
-Weeks getting ready. The ones before left bots. I activated them to help me. We cleared away the debris. Put up a new dome one layer at a time. 
+Weeks getting ready. The ones before left help. I activated them all. We cleared away the debris. Put up a new dome one layer at a time. 
 
 The bots do the work up high. They mostly got it right. 
 

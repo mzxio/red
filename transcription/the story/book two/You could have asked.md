@@ -1,6 +1,8 @@
 ### You could have asked.
 
-When things went wrong, you decided what it all meant and went ahead. By then there was still time. You could have asked and found out that you were wrong. But you didn’t and here we are. Once you decide how things are, that’s how they’ll be.
+When things went wrong, you decided what it all meant and went ahead. By then there was still time. You could have asked and found out that you were wrong. But you didn’t and here we are.
+
+“Once you decide how things are, that’s how they’ll be.”
 
 Doesn’t matter if everything and everyone tells you something different. Once your mind’s made up, that’s it. Your entire universe has been set, your focus determined. If they say something different you ignore it because you’re right, they are wrong or just stupid, and your way is best. 
 
