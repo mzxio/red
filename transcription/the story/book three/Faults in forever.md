@@ -6,7 +6,7 @@ Every day sends out its signal, its light. No other light will guide us here. Th
 
 “You feel it or you don’t. You make your own determinations.”
 
-Every day the rain falls on the water. Every day the raft rises and falls with the tide. No one remembers the way it was before. They tell stories to remind themselves, but none of it is true. There is no true. We all have a different vision. 
+Rain falls on the water. Every day the raft rises and falls with the tide. No one remembers the way it was before. They tell stories to remind themselves, but none of it is true. There is no true. We all have a different vision. 
 
 “How many times did we come here? No one remembers. A long eternity.”
 

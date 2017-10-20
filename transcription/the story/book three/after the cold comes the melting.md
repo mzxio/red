@@ -1,3 +1,11 @@
-# after the cold comes the melting. 
+# After the cold comes the melting.
 
-what was ice and snow becomes wet, all the low places become marshy. before the first breath of spring is the cold wet spongy ground. the little blossoms of hardy plants that have waited for this day all winter, their dry crusty bones suddenly awash, reawakening their old spirit. they jump up as if they had never been asleep. the tall trees shelter snow in their shadowy places. where the sun never reaches in those dark seasons. little animals, birds and those who stay awake for winter, they gather and sip the snow melt, have their first convocation of the season. not yet the beginning of spring, not quite the end of winter. the air still cold and the sky still bright, a low misty haze showing the moist breath is everywhere, not just in this little hollow between the trees. not far from the mountains. nights are still bitter cold here, but there is plenty. stay for a while, tonight at least, before you walk along. the mountains will still be there tomorrow and you look like you could use a rest. take this old dry wood from the old tree, it has no more use for these logs. the stones on the hill are laid just so, perfect to rest your back and make a fire. the little wood creatures will give you a meal with their bodies, it’s ok. stay a while today. 
+What was ice and snow becomes wet, marshy in low places. Before the first breath of spring is the cold wet spongy ground. Little blossoms of hardy plants that have waited for this day all winter, when their dry crusty bones suddenly awash. Their old spirit reawakens. They jump up as if they had never been asleep.
+
+Tall trees shelter snow in their shadowy places, where the sun never reaches in those dark seasons. Gatherings of little animals, birds and those who stay awake for winter sipping the snow melt. The first convocation of the season. Not yet the beginning of spring, not quite the end of winter.
+
+Still cold air and bright sky, a low misty haze showing moist breath of earth is everywhere, not just in this little hollow between the trees. Not far from the mountains. Nights are still bitter cold here, but there is plenty. 
+
+Stay for a while, tonight at least, before you walk along. The mountains will still be there tomorrow and you look like you could use a rest. Take this dry wood from the old tree. It has no more use for these logs. The stones on the hill are laid just so, perfect to rest your back and make a fire. The little creatures will give you a meal with their bodies. It’s ok.
+
+Stay a while today. 

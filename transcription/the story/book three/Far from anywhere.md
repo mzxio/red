@@ -1,8 +1,8 @@
-### Far from anywhere, the canyon lands. 
+### Far from anywhere
 
-Big scars on the ground, worn away by ages. Years beyond count.
+Canyon lands. Big scars on the ground, worn away by ages. Years beyond count.
 
-They say once every century a bird flies down and sharpens its beak upon a stone. In a thousand visits you wouldn’t know it had been there. The birds have been visiting longer than counting. 
+They say once every year a bird flies down and sharpens its beak upon a stone. In a thousand visits you wouldn’t know it had been there. The birds have been visiting longer than counting. 
 
 Water runs its way here and there and carries the sand along with it. Wind follows the water, blowing away anything left dislodged or unstable. The bird, the water, the wind. They all made this place.
 

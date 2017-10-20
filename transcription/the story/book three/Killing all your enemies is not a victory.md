@@ -1,9 +1,12 @@
 ### Killing all your enemies is not a victory.
 
-When there is no one left, there is no chance for anything else ever again. It is nothing but completion. An ending. Death in totality.
+When there is no one left, there is no chance for anything else ever again. It is nothing but completion. An ending. Failure. 
 
-Failure. 
+Death in totality.
 
-When you stand among the bones of your enemies, one enemy remains: you. You are the enemy. Turn your weapons on yourself or go on forever perceiving other enemies around every corner. If there are always enemies, there is a reason to keep going. If there are no enemies, that reason is gone.
+When you stand among the bones of your enemies, you are the enemy. Turn your weapons on yourself or go on forever seeing the dead around every corner. 
 
-Your enemies may be forgotten, but they will never be gone.
+You’ll give yourself reasons keep going. If there are no enemies, that reason is gone.
+
+Your enemies may be gone, but we will never be forgotten. 
+

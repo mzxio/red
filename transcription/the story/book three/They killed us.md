@@ -1,4 +1,4 @@
-### They killed us all.
+### They killed us.
 
 The guardians in the north, dead. In the east, dead. In the south, dead. In the west, dead... all dead. They came and wiped us out. None of them did anything to stop it.
 

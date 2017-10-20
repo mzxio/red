@@ -16,6 +16,16 @@
 					<integer>418</integer>
 				</dict>
 			</dict>
+			<key>After the cold comes the melting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>530046455.07132798</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>477</integer>
+				</dict>
+			</dict>
 			<key>After the massacre the bodies don’t even look like people anymore.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -46,14 +56,24 @@
 					<integer>140</integer>
 				</dict>
 			</dict>
-			<key>Far from anywhere, the canyon lands.md</key>
+			<key>Empty strongholds.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522881093.878667</real>
+				<real>529884925.67128199</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>329</integer>
+					<integer>475</integer>
+				</dict>
+			</dict>
+			<key>Far from anywhere.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529884901.028476</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>473</integer>
 				</dict>
 			</dict>
 			<key>Faults in forever.md</key>
@@ -99,31 +119,21 @@
 			<key>Killing all your enemies is not a victory.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524293076.00199997</real>
+				<real>529884706.508448</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>424</integer>
-				</dict>
-			</dict>
-			<key>Miles from wherever.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>522881090.56625301</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>327</integer>
+					<integer>470</integer>
 				</dict>
 			</dict>
 			<key>Music from the deep.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522045129.33636898</real>
+				<real>529884331.45051903</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>160</integer>
+					<integer>462</integer>
 				</dict>
 			</dict>
 			<key>No one who’s still here remembers when the wheels of the machine were set in motion.md</key>
@@ -186,14 +196,14 @@
 					<integer>362</integer>
 				</dict>
 			</dict>
-			<key>They killed us all.md</key>
+			<key>They killed us.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>522100479.58533603</real>
+				<real>529884749.67572302</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>302</integer>
+					<integer>471</integer>
 				</dict>
 			</dict>
 			<key>They stayed inside when the rains came.md</key>
@@ -299,11 +309,11 @@
 			<key>Your coming was foretold.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>524033595.50281799</real>
+				<real>529884334.10160202</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>358</integer>
+					<integer>464</integer>
 				</dict>
 			</dict>
 			<key>Z.md</key>
@@ -316,24 +326,14 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
-			<key>after the cold comes the melting.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>529818934.25878102</real>
-				<key>version</key>
-				<dict>
-					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>453</integer>
-				</dict>
-			</dict>
 			<key>for millennia she walked between the stars.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>529818189.73201197</real>
+				<real>529884666.46520102</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>449</integer>
+					<integer>468</integer>
 				</dict>
 			</dict>
 			<key>keep to the road.md</key>
@@ -507,7 +507,7 @@
 			<string>What is there to hope for.md</string>
 		</array>
 		<array>
-			<string>Miles from wherever.md</string>
+			<string>Empty strongholds.md</string>
 		</array>
 		<array>
 			<string>No one who’s still here remembers when the wheels of the machine were set in motion.md</string>
@@ -519,7 +519,7 @@
 			<string>Walk with care.md</string>
 		</array>
 		<array>
-			<string>Far from anywhere, the canyon lands.md</string>
+			<string>Far from anywhere.md</string>
 		</array>
 		<array>
 			<string>Whatever happened to the ones who washed away in the flood.md</string>
@@ -531,13 +531,10 @@
 			<string>The place of trials.md</string>
 		</array>
 		<array>
-			<string>They killed us all.md</string>
+			<string>They killed us.md</string>
 		</array>
 		<array>
 			<string>After the massacre the bodies don’t even look like people anymore.md</string>
-		</array>
-		<array>
-			<string>after the cold comes the melting.md</string>
 		</array>
 		<array>
 			<string>For uncounted generations our last confederation stood.md</string>
@@ -549,25 +546,28 @@
 			<string>Only a monument remained to the way things were before.md</string>
 		</array>
 		<array>
-			<string>Too many to name. Too many forgotten, or best forgotten.md</string>
-		</array>
-		<array>
 			<string>Killing all your enemies is not a victory.md</string>
 		</array>
 		<array>
-			<string>precession through the crowds.md</string>
-		</array>
-		<array>
-			<string>Faults in forever.md</string>
-		</array>
-		<array>
-			<string>Music from the deep.md</string>
+			<string>Too many to name. Too many forgotten, or best forgotten.md</string>
 		</array>
 		<array>
 			<string>Your coming was foretold.md</string>
 		</array>
 		<array>
 			<string>for millennia she walked between the stars.md</string>
+		</array>
+		<array>
+			<string>precession through the crowds.md</string>
+		</array>
+		<array>
+			<string>Music from the deep.md</string>
+		</array>
+		<array>
+			<string>Faults in forever.md</string>
+		</array>
+		<array>
+			<string>After the cold comes the melting.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -577,7 +577,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>460</integer>
+			<integer>477</integer>
 		</dict>
 	</dict>
 </dict>

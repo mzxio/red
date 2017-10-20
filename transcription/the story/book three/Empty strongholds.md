@@ -1,6 +1,6 @@
-### Miles from wherever. 
+### Empty strongholds.
 
-Empty stronghold in the valley. They used to come here from all around to meet, to trade, to take the water. Now only pilgrims brave the passes. No one comes this far. Too weary to go out looking for more.
+They used to come here from all around to meet, to trade, to take the water. Now only pilgrims brave the passes. No one comes this far. Too weary to go out looking for more.
 
 Pause.
 
