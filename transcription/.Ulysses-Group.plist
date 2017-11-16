@@ -4,79 +4,75 @@
 <dict>
 	<key>childOrder</key>
 	<array>
-		<string>books</string>
-		<string>the story</string>
-		<string>New Folder</string>
-		<string>outlined</string>
-		<string>red</string>
-		<string>red edit</string>
+		<string>0 - books</string>
+		<string>1 - red</string>
+		<string>2 - red edit</string>
+		<string>3 - the story</string>
+		<string>4 - outlined</string>
+		<string>5 - outlined edit</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
 		<dict>
-			<key>New Folder</key>
+			<key>0 - books</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>531098496.64139998</real>
 				<key>lastModification</key>
-				<real>531098496.64139998</real>
+				<real>531714165.707017</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>44</integer>
+					<integer>45</integer>
 				</dict>
 			</dict>
-			<key>books</key>
+			<key>1 - red</key>
 			<dict>
 				<key>lastModification</key>
-				<real>515021591.58128202</real>
+				<real>531714207.48644</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>10</integer>
+					<integer>49</integer>
 				</dict>
 			</dict>
-			<key>outlined</key>
+			<key>2 - red edit</key>
 			<dict>
 				<key>lastModification</key>
-				<real>530918818.43713301</real>
+				<real>531714209.41675001</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>41</integer>
+					<integer>51</integer>
 				</dict>
 			</dict>
-			<key>red</key>
+			<key>3 - the story</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516390113.41314602</real>
+				<real>531714216.54600602</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>34</integer>
+					<integer>52</integer>
 				</dict>
 			</dict>
-			<key>red edit</key>
+			<key>4 - outlined</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516390113.41339999</real>
+				<real>531714224.62314099</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>35</integer>
+					<integer>53</integer>
 				</dict>
 			</dict>
-			<key>the story</key>
+			<key>5 - outlined edit</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516390105.696392</real>
+				<real>531714248.37954599</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>32</integer>
+					<integer>56</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -107,7 +103,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>44</integer>
+			<integer>56</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
