@@ -56,6 +56,16 @@
 					<integer>13</integer>
 				</dict>
 			</dict>
+			<key>checking in $.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532730526.79213703</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>61</integer>
+				</dict>
+			</dict>
 			<key>electric-fare.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -64,6 +74,36 @@
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
 					<integer>32</integer>
+				</dict>
+			</dict>
+			<key>he dies quick $.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532730536.398646</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>65</integer>
+				</dict>
+			</dict>
+			<key>meeting late $.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532730522.07023501</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>59</integer>
+				</dict>
+			</dict>
+			<key>the commission $.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532730528.99861503</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>63</integer>
 				</dict>
 			</dict>
 			<key>u bent.md</key>
@@ -101,6 +141,18 @@
 		<array>
 			<string>u bent.md</string>
 		</array>
+		<array>
+			<string>meeting late $.md</string>
+		</array>
+		<array>
+			<string>checking in $.md</string>
+		</array>
+		<array>
+			<string>the commission $.md</string>
+		</array>
+		<array>
+			<string>he dies quick $.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -109,7 +161,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>34</integer>
+			<integer>66</integer>
 		</dict>
 	</dict>
 </dict>
