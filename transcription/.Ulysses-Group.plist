@@ -78,6 +78,16 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>index.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>532752705.088085</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
 			<key>outline.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -92,6 +102,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>index.md</string>
+		</array>
 		<array>
 			<string>outline.md</string>
 		</array>
@@ -108,7 +121,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>8</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 </dict>
