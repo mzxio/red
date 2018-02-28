@@ -10,6 +10,7 @@
 		<string>3 - the story</string>
 		<string>4 - outlined</string>
 		<string>5 - outlined edit</string>
+		<string>6 - outlined prepress</string>
 	</array>
 	<key>resolutionData</key>
 	<dict>
@@ -75,6 +76,20 @@
 					<integer>56</integer>
 				</dict>
 			</dict>
+			<key>6 - outlined prepress</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>540416136.79910195</real>
+				<key>lastModification</key>
+				<real>540416136.79910195</real>
+				<key>version</key>
+				<dict>
+					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
+					<integer>60</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
@@ -90,12 +105,16 @@
 			</dict>
 			<key>outline.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>540041810.52755702</real>
 				<key>lastModification</key>
-				<real>529628895.48678702</real>
+				<real>540041810.52755702</real>
 				<key>version</key>
 				<dict>
 					<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-					<integer>7</integer>
+					<integer>11</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -116,12 +135,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>56</integer>
+			<integer>60</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>b8a93c9ba379c504753df962f543d3d85e57bb413a5b13754fc3227dc0e7c6de</key>
-			<integer>10</integer>
+			<integer>11</integer>
 		</dict>
 	</dict>
 </dict>
